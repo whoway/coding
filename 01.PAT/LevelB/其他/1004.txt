@@ -1,0 +1,60 @@
+//主要在于struct的构造函数怎么写
+
+#include<iostream>
+#include<algorithm>
+#include<string>
+#include<cstdio>
+#include<vector>
+using namespace std;
+
+struct node{
+	string str1;
+	string str2;
+	int v;
+	node(string ss,string s2,int k):  str1(ss),str2(s2),v(k) {}
+};
+
+int main()
+{
+	int n;
+	scanf("%d",&n);
+	vector<node> vi;
+	int aa[n];
+	string str1,str2;
+	int c;
+	for(int i=0;i<n;i++)
+	{
+		cin>>str1;
+		cin>>str2;
+		cin>>c;
+		vi.push_back(node(str1,str2,c)); 
+		aa[i]=c;
+	}
+	
+	sort(aa,aa+n);
+	int max,min;
+	max=aa[n-1];
+	min=aa[0];
+	
+	for(int j=0;;j++)
+	{
+		if(max==vi[j].v)
+		{
+			cout<<vi[j].str1<<" "<<vi[j].str2<<endl;
+			break;
+		}
+	}
+	
+	for(int j=0;;j++)
+	{
+		if(min==vi[j].v)
+		{
+			cout<<vi[j].str1<<" "<<vi[j].str2;
+			break;
+		}
+	}
+	
+	
+	
+	return 0;
+}

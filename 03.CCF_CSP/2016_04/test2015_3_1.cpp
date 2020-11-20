@@ -1,0 +1,26 @@
+#include<iostream>
+#include<cstdio>
+using namespace std;
+int main()
+{
+	int n,sum=0;
+	scanf("%d",&n);
+	int a[n];
+	for(int i=0;i<n;i++)
+	{
+		scanf("%d",&a[i]);
+	}
+	for(int i=1;i<(n-1);i++)
+	{
+		if(a[i-1]>a[i]&&a[i]<a[i+1])
+		{
+			sum++;
+		}
+		else if(a[i-1]<a[i]&&a[i]>a[i+1])
+		{
+			sum++;
+		}
+	}
+	printf("%d",sum);
+	return 0;
+ } 

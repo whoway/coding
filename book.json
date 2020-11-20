@@ -1,0 +1,47 @@
+﻿{
+    "title": "Coding训练",
+    "author": "HACV",
+    "description": "选择学校",
+    "language": "zh-hans",
+    "gitbook": "3.2.3",
+    "links": {
+        "sidebar": {
+            "个人博客": "https://hacv.gitee.io/"
+        }
+    },
+	"plugins": [
+		"back-to-top-button",
+		"chapter-fold",
+		"github",
+		"insert-logo",
+		"tbfed-pagefooter",
+		"code",
+		"copy-code-button",
+		"flexible-alerts"
+	],
+	"pluginsConfig": 
+	{
+	    "github": 
+		{
+     	   "url": "https://github.com/HACV"
+		},
+		"insert-logo": 
+		{
+		  "url": "https://portrait.gitee.com/uploads/avatars/user/2599/7799986_HACV_1603894099.png!avatar200",
+		  "style": "background: none; max-height: 50px; min-height: 50px",
+		  "title": "MaxWell教程"
+		},
+		"tbfed-pagefooter": {
+            "copyright":"Copyright &HACV 2020",
+            "modify_label": "该文件修订时间：",
+            "modify_format": "YYYY-MM-DD HH:mm:ss"
+        },
+		"code": 
+		{
+          "copyButtons": false
+        }
+	}
+	
+						
+}     
+

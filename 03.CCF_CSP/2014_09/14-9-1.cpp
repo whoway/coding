@@ -1,0 +1,26 @@
+#include<iostream>
+#include<cstdio>
+#include<algorithm>
+
+using namespace std;
+int main()
+{
+	int n;
+	scanf("%d",&n);
+	int aa[n];
+	for(int i=0;i<n;i++)
+	{
+		scanf("%d",&aa[i]);
+	}
+	sort(aa,aa+n);
+	int sum=0;
+	for(int i=0;i<(n-1);i++)
+	{
+		if((aa[i+1]-aa[i])==1)
+		{
+			sum++;
+		}
+	}
+	printf("%d",sum);
+	return 0;
+ } 
