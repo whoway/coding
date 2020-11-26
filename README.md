@@ -6,7 +6,9 @@
 
 ## 说明  
 刷题报告全部用Markdown书写  
-使用[Haroopad](http://pad.haroopress.com/)编辑
+使用[Haroopad](http://pad.haroopress.com/)编辑  
+
+全部使用C++语法
 
 ## 目录  
 >- Leetcode
