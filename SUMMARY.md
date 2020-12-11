@@ -22,4 +22,3 @@
 	* [07.京东](05.NowCoder/07.京东/README.md)
 	* [08.网易](05.NowCoder/08.网易/README.md)
 	* [09.深信服](05.NowCoder/09.深信服/README.md)
-* [第六章、AtCoder](06.AtCoder/README.md)
