@@ -1,4 +1,4 @@
-<img width="220px" src="https://hacv.gitee.io/command/_media/logo.png">
+<img width="220px" src="https://gitee.com/HACV/command/raw/master/_style/logo.png">
 
 
 - 本项目为“Coding记载仓库”

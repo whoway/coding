@@ -1,4 +1,4 @@
-![logo](https://hacv.gitee.io/command/_media/logo.png)
+![logo](https://gitee.com/HACV/command/raw/master/_style/logo.png)
 
 <center><font size=6 face="行书">Coding仓库</font></center>
 
