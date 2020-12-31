@@ -2,7 +2,7 @@
 - [:pushpin:Coding准备](README.md)
 	- [Part01.Vim和VScode使用手册](00.Pre/Part01.Vim和VScode使用手册.md)
 	- [Part02.批量生成Markdown](00.Pre/Part02.Cmd.md)
-	- [Part03.『分题型』刷题目录](00.Pre/Part03.分类型刷题目录.md)
+	- [Part03.分题型『刷题目录』](00.Pre/Part03.分类型刷题目录.md)
 	- [Part04.OJ上C语言输入输出](00.Pre/Part04.OJ上C语言输入输出.md)
 - [🎨第1章.PAT](01.PAT/PAT目录结构.md.md)
 - [:musical_keyboard:第2章.CSP](./02.CCF_CSP/CSP目录结构.md)
