@@ -103,36 +103,36 @@
 
 ### 1排序
 
-| 题号        | 传送门 | 说明 |
-| ----------- | ------ | ---- |
-| B1015/A1062 |        |      |
-| A1012       |        |      |
-| A1016       |        |      |
-| A1025       |        |      |
-| A1028       |        |      |
-| A1055       |        |      |
-| A1075       |        |      |
-| A1083       |        |      |
-| A1080       |        |      |
-| A1095       |        |      |
+| 题号                                                         | 传送门                                                       | 说明 |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ---- |
+| B1015[ 德才论](https://pintia.cn/problem-sets/994805260223102976/problems/994805307551629312)/A1062[Talent and Virtue](https://pintia.cn/problem-sets/994805342720868352/problems/994805410555346944) |                                                              |      |
+| A1012                                                        | [The Best Rank](https://pintia.cn/problem-sets/994805342720868352/problems/994805502658068480) |      |
+| A1016                                                        | [ Phone Bills](https://pintia.cn/problem-sets/994805342720868352/problems/994805493648703488) |      |
+| A1025                                                        | [ PAT Ranking](https://pintia.cn/problem-sets/994805342720868352/problems/994805474338127872) |      |
+| A1028                                                        | [ List Sorting](https://pintia.cn/problem-sets/994805342720868352/problems/994805468327690240) |      |
+| A1055                                                        | [ The World's Richest](https://pintia.cn/problem-sets/994805342720868352/problems/994805421066272768) |      |
+| A1075                                                        | [ PAT Judge](https://pintia.cn/problem-sets/994805342720868352/problems/994805393241260032) |      |
+| A1083                                                        | [ List Grades](https://pintia.cn/problem-sets/994805342720868352/problems/994805383929905152) |      |
+| A1080                                                        | [ Graduate Admission](https://pintia.cn/problem-sets/994805342720868352/problems/994805387268571136) |      |
+| A1095                                                        | [ Cars on Campus](https://pintia.cn/problem-sets/994805342720868352/problems/994805371602845696) |      |
 
 
 
 ### 2散列（哈希）
 
-| 题号        | 传送门 | 说明 |
-| ----------- | ------ | ---- |
-| B1029/1084  |        |      |
-| B1033       |        |      |
-| B1038       |        |      |
-| B1039/A1092 |        |      |
-| B1042       |        |      |
-| B1043       |        |      |
-| B1047       |        |      |
-| A1041       |        |      |
-| A1050       |        |      |
-| B1005       |        |      |
-| A1048       |        |      |
+| 题号                                                         | 传送门                                                       | 说明 |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ---- |
+| B1029[旧键盘](https://pintia.cn/problem-sets/994805260223102976/problems/994805292322111488)/1084[Broken Keyboard](https://pintia.cn/problem-sets/994805342720868352/problems/994805382902300672) |                                                              | 1    |
+| B1033                                                        | [ 旧键盘打字](https://pintia.cn/problem-sets/994805260223102976/problems/994805288530460672) |      |
+| B1038                                                        | [ 统计同成绩学生](https://pintia.cn/problem-sets/994805260223102976/problems/994805284092887040) | 1    |
+| B1039[ 到底买不买](https://pintia.cn/problem-sets/994805260223102976/problems/994805283241443328)/A1092[ To Buy or Not to Buy](https://pintia.cn/problem-sets/994805342720868352/problems/994805374509498368) |                                                              |      |
+| B1042                                                        | [ 字符统计](https://pintia.cn/problem-sets/994805260223102976/problems/994805280817135616) |      |
+| B1043                                                        | [输出PATest](https://pintia.cn/problem-sets/994805260223102976/problems/994805280074743808) |      |
+| B1047                                                        | [编程团体赛](https://pintia.cn/problem-sets/994805260223102976/problems/994805277163896832) | 1    |
+| A1041                                                        | [ Be Unique](https://pintia.cn/problem-sets/994805342720868352/problems/994805444361437184) |      |
+| A1050                                                        | [ String Subtraction](https://pintia.cn/problem-sets/994805342720868352/problems/994805429018673152) |      |
+| B1005                                                        | [继续(3n+1)猜想](https://pintia.cn/problem-sets/994805260223102976/problems/994805320306507776) |      |
+| A1048                                                        | [ Find Coins](https://pintia.cn/problem-sets/994805342720868352/problems/994805432256675840) |      |
 
 
 
@@ -145,45 +145,45 @@
 
 ### 4贪心
 
-| 题号        | 传送门 | 说明 |
-| ----------- | ------ | ---- |
-| B1023       |        |      |
-| B1020/A1070 |        |      |
-| A1033       |        |      |
-| A1037       |        |      |
-| A1067       |        |      |
-| A1038       |        |      |
+| 题号                                                         | 传送门                                                       | 说明 |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ---- |
+| B1023                                                        | [组个最小数](https://pintia.cn/problem-sets/994805260223102976/problems/994805298269634560) |      |
+| B1020[月饼](https://pintia.cn/problem-sets/994805260223102976/problems/994805301562163200)/A1070[Mooncake](https://pintia.cn/problem-sets/994805342720868352/problems/994805399578853376) |                                                              |      |
+| A1033                                                        | [To Fill or Not to Fill](https://pintia.cn/problem-sets/994805342720868352/problems/994805458722734080) |      |
+| A1037                                                        | [Magic Coupon](https://pintia.cn/problem-sets/994805342720868352/problems/994805451374313472) |      |
+| A1067                                                        | [ Sort with Swap(0, i)](https://pintia.cn/problem-sets/994805342720868352/problems/994805403651522560) |      |
+| A1038                                                        | [ Recover the Smallest Number](https://pintia.cn/problem-sets/994805342720868352/problems/994805449625288704) |      |
 
 
 
 ### 5二分
 
-| 题号        |      |      |
-| ----------- | ---- | ---- |
-| B1030/A1085 |      |      |
-| A1010       |      |      |
-| A1044       |      |      |
-| A1048       |      |      |
+| 题号                                                         |                                                              |      |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ---- |
+| B1030[ 完美数列](https://pintia.cn/problem-sets/994805260223102976/problems/994805291311284224)/A1085[Perfect Sequence](https://pintia.cn/problem-sets/994805342720868352/problems/994805381845336064) |                                                              | 1    |
+| A1010                                                        | [Radix](https://pintia.cn/problem-sets/994805342720868352/problems/994805507225665536) |      |
+| A1044                                                        | [ Favorite Color Stripe](https://pintia.cn/problem-sets/994805342720868352/problems/994805437411475456) |      |
+| A1048                                                        | [ Find Coins](https://pintia.cn/problem-sets/994805342720868352/problems/994805432256675840) |      |
 
 
 
 ### 6two  pointers（双指针）
 
-| 题号        |      |      |
-| ----------- | ---- | ---- |
-| B1030/A1085 |      |      |
-| B1035/A1089 |      |      |
-| A1029       |      |      |
-| A1048       |      |      |
+| 题号                                                         |                                                              |      |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ---- |
+| B1030/A1085                                                  |                                                              |      |
+| B1035[ 插入与归并](https://pintia.cn/problem-sets/994805260223102976/problems/994805286714327040)/A1089[Insert or Merge](https://pintia.cn/problem-sets/994805342720868352/problems/994805377432928256) |                                                              |      |
+| A1029                                                        | [ Median](https://pintia.cn/problem-sets/994805342720868352/problems/994805466364755968) |      |
+| A1048                                                        | [Find Coins](https://pintia.cn/problem-sets/994805342720868352/problems/994805432256675840) |      |
 
 
 
 ### 7其他高效技巧与算法
 
-| 题号        |      |      |
-| ----------- | ---- | ---- |
-| B1040/A1093 |      |      |
-| B1045/A1101 |      |      |
+| 题号                                                         |      |      |
+| ------------------------------------------------------------ | ---- | ---- |
+| B1040[有几个PAT](https://pintia.cn/problem-sets/994805260223102976/problems/994805282389999616)/A1093[ Count PAT's](https://pintia.cn/problem-sets/994805342720868352/problems/994805373582557184) |      | 1    |
+| B1045[ 快速排序](https://pintia.cn/problem-sets/994805260223102976/problems/994805278589960192)/A1101[ Quick Sort](https://pintia.cn/problem-sets/994805342720868352/problems/994805366343188480) |      |      |
 
 
 
@@ -191,30 +191,30 @@
 
 ### 1简单数学（不简单）
 
-| 题号        |      |      |
-| ----------- | ---- | ---- |
-| B1003       |      |      |
-| B1019/A1069 |      |      |
-| B1049/A1104 |      |      |
-| A1008       |      |      |
-| A1049       |      |      |
+| 题号                                                         |                                                              |      |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ---- |
+| B1003                                                        | [我要通过！](https://pintia.cn/problem-sets/994805260223102976/problems/994805323154440192) |      |
+| B1019[ 数字黑洞](https://pintia.cn/problem-sets/994805260223102976/problems/994805302786899968)/A1069[ The Black Hole of Numbers](https://pintia.cn/problem-sets/994805342720868352/problems/994805400954585088) |                                                              |      |
+| B1049[ 数列的片段和](https://pintia.cn/problem-sets/994805260223102976/problems/994805275792359424)/A1104[Sum of Number Segments](https://pintia.cn/problem-sets/994805342720868352/problems/994805363914686464) |                                                              | 1    |
+| A1008                                                        | [Elevator](https://pintia.cn/problem-sets/994805342720868352/problems/994805511923286016) |      |
+| A1049                                                        | [Counting Ones](https://pintia.cn/problem-sets/994805342720868352/problems/994805430595731456) |      |
 
 
 
 ### 2最大公约数和最小公倍数
 
-| 题号  |      |      |
-| ----- | ---- | ---- |
-| B1008 |      |      |
+| 题号  |                                                              |      |
+| ----- | ------------------------------------------------------------ | ---- |
+| B1008 | [ 数组元素循环右移问题](https://pintia.cn/problem-sets/994805260223102976/problems/994805316250615808) |      |
 
 
 
 ### 3分数的四则运算
 
-| 题号        |      |      |
-| ----------- | ---- | ---- |
-| A1081       |      |      |
-| B1034/A1088 |      |      |
+| 题号                                                         |                                                              |      |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ---- |
+| A1081                                                        | [Rational Sum](https://pintia.cn/problem-sets/994805342720868352/problems/994805386161274880) |      |
+| B1034[有理数四则运算](https://pintia.cn/problem-sets/994805260223102976/problems/994805287624491008)/A1088[ Rational Arithmetic](https://pintia.cn/problem-sets/994805342720868352/problems/994805378443755520) |                                                              |      |
 
 
 
