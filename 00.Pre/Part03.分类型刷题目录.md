@@ -293,8 +293,8 @@
 
 | 题号                                                         | 传送门                                                       | 说明 |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ---- |
-| B1044[ 火星数字](https://pintia.cn/problem-sets/994805260223102976/problems/994805279328157696)/A1100[ Mars Numbers](https://pintia.cn/problem-sets/994805342720868352/problems/994805367156883456) |                                                              |      |
-| A1054                                                        | [ The Dominant Color](https://pintia.cn/problem-sets/994805342720868352/problems/994805422639136768) |      |
+| B1044[ 火星数字](https://pintia.cn/problem-sets/994805260223102976/problems/994805279328157696)/A1100[ Mars Numbers](https://pintia.cn/problem-sets/994805342720868352/problems/994805367156883456) |                                                              | 1    |
+| A1054                                                        | [ The Dominant Color](https://pintia.cn/problem-sets/994805342720868352/problems/994805422639136768) | 1    |
 | A1071                                                        | [ Speech Patterns](https://pintia.cn/problem-sets/994805342720868352/problems/994805398257647616) |      |
 | A1022                                                        | [ Digital Library](https://pintia.cn/problem-sets/994805342720868352/problems/994805480801550336) |      |
 
