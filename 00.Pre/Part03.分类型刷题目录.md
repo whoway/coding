@@ -84,9 +84,9 @@
 | B1006                                                        | [换个格式输出整数](https://pintia.cn/problem-sets/994805260223102976/problems/994805318855278592) | 1    |
 | B1021                                                        | [个位数统计](https://pintia.cn/problem-sets/994805260223102976/problems/994805300404535296) | 1    |
 | B1031                                                        | [查验身份证](https://pintia.cn/problem-sets/994805260223102976/problems/994805290334011392) | 1    |
-| B1002                                                        | [ 写出这个数](https://pintia.cn/problem-sets/994805260223102976/problems/994805324509200384) |      |
-| B1009                                                        | [ 说反话](https://pintia.cn/problem-sets/994805260223102976/problems/994805314941992960) |      |
-| B1014[ 福尔摩斯的约会](https://pintia.cn/problem-sets/994805260223102976/problems/994805308755394560)/A1061[Dating](https://pintia.cn/problem-sets/994805342720868352/problems/994805411985604608) |                                                              | 1    |
+| B1002                                                        | [ 写出这个数](https://pintia.cn/problem-sets/994805260223102976/problems/994805324509200384) | 1    |
+| B1009                                                        | [ 说反话](https://pintia.cn/problem-sets/994805260223102976/problems/994805314941992960) | 1    |
+| B1014[ 福尔摩斯的约会](https://pintia.cn/problem-sets/994805260223102976/problems/994805308755394560)/A1061[Dating](https://pintia.cn/problem-sets/994805342720868352/problems/994805411985604608) | 同样代码AC                                                   | 1    |
 | B1024[科学计数法](https://pintia.cn/problem-sets/994805260223102976/problems/994805297229447168)A1073[Scientific Notation](https://pintia.cn/problem-sets/994805342720868352/problems/994805395707510784) |                                                              | 1    |
 | B1048                                                        | [ 数字加密](https://pintia.cn/problem-sets/994805260223102976/problems/994805276438282240) |      |
 | A1001                                                        | [ A+B Format](https://pintia.cn/problem-sets/994805342720868352/problems/994805528788582400) | 1    |
@@ -126,8 +126,8 @@
 | B1033                                                        | [ 旧键盘打字](https://pintia.cn/problem-sets/994805260223102976/problems/994805288530460672) |      |
 | B1038                                                        | [ 统计同成绩学生](https://pintia.cn/problem-sets/994805260223102976/problems/994805284092887040) | 1    |
 | B1039[ 到底买不买](https://pintia.cn/problem-sets/994805260223102976/problems/994805283241443328)/A1092[ To Buy or Not to Buy](https://pintia.cn/problem-sets/994805342720868352/problems/994805374509498368) |                                                              |      |
-| B1042                                                        | [ 字符统计](https://pintia.cn/problem-sets/994805260223102976/problems/994805280817135616) |      |
-| B1043                                                        | [输出PATest](https://pintia.cn/problem-sets/994805260223102976/problems/994805280074743808) |      |
+| B1042                                                        | [ 字符统计](https://pintia.cn/problem-sets/994805260223102976/problems/994805280817135616) | 1    |
+| B1043                                                        | [输出PATest](https://pintia.cn/problem-sets/994805260223102976/problems/994805280074743808) | 1    |
 | B1047                                                        | [编程团体赛](https://pintia.cn/problem-sets/994805260223102976/problems/994805277163896832) | 1    |
 | A1041                                                        | [ Be Unique](https://pintia.cn/problem-sets/994805342720868352/problems/994805444361437184) |      |
 | A1050                                                        | [ String Subtraction](https://pintia.cn/problem-sets/994805342720868352/problems/994805429018673152) |      |
@@ -147,7 +147,7 @@
 
 | 题号                                                         | 传送门                                                       | 说明 |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ---- |
-| B1023                                                        | [组个最小数](https://pintia.cn/problem-sets/994805260223102976/problems/994805298269634560) |      |
+| B1023                                                        | [组个最小数](https://pintia.cn/problem-sets/994805260223102976/problems/994805298269634560) | 1    |
 | B1020[月饼](https://pintia.cn/problem-sets/994805260223102976/problems/994805301562163200)/A1070[Mooncake](https://pintia.cn/problem-sets/994805342720868352/problems/994805399578853376) |                                                              |      |
 | A1033                                                        | [To Fill or Not to Fill](https://pintia.cn/problem-sets/994805342720868352/problems/994805458722734080) |      |
 | A1037                                                        | [Magic Coupon](https://pintia.cn/problem-sets/994805342720868352/problems/994805451374313472) |      |
@@ -203,9 +203,9 @@
 
 ### 2最大公约数和最小公倍数
 
-| 题号  |                                                              |      |
+| 题号  | 传送门                                                       |      |
 | ----- | ------------------------------------------------------------ | ---- |
-| B1008 | [ 数组元素循环右移问题](https://pintia.cn/problem-sets/994805260223102976/problems/994805316250615808) |      |
+| B1008 | [ 数组元素循环右移问题](https://pintia.cn/problem-sets/994805260223102976/problems/994805316250615808) | 1    |
 
 
 
