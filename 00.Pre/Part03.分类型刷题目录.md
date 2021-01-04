@@ -96,7 +96,7 @@
 - [ ]  A1005                                                        | [ Spell It Right](https://pintia.cn/problem-sets/994805342720868352/problems/994805519074574336) |      |
 - [ ]  A1035                                                        | [Password](https://pintia.cn/problem-sets/994805342720868352/problems/994805454989803520) |      |
 - [ ]  A1077                                                        | [ Kuchiguse](https://pintia.cn/problem-sets/994805342720868352/problems/994805390896644096) |      |
-- [ ] A1082                                                        | [Read Number in Chinese](https://pintia.cn/problem-sets/994805342720868352/problems/994805385053978624) |      |
+- [ ] A1082                                                        | [Read Number in Chinese](https://pintia.cn/problem-sets/994805342720868352/problems/994805385053978624) |  
 
 
 
@@ -144,8 +144,6 @@
 
 ### 4贪心
 
-| 题号                                                         | 传送门                                                       | 说明 |
-| ------------------------------------------------------------ | ------------------------------------------------------------ | ---- |
 | B1023                                                        | [组个最小数](https://pintia.cn/problem-sets/994805260223102976/problems/994805298269634560) | 1    |
 | B1020[月饼](https://pintia.cn/problem-sets/994805260223102976/problems/994805301562163200)/A1070[Mooncake](https://pintia.cn/problem-sets/994805342720868352/problems/994805399578853376) |                                                              |      |
 | A1033                                                        | [To Fill or Not to Fill](https://pintia.cn/problem-sets/994805342720868352/problems/994805458722734080) |      |
@@ -157,8 +155,6 @@
 
 ### 5二分
 
-| 题号                                                         | 传送门                                                       | 说明 |
-| ------------------------------------------------------------ | ------------------------------------------------------------ | ---- |
 | B1030[ 完美数列](https://pintia.cn/problem-sets/994805260223102976/problems/994805291311284224)/A1085[Perfect Sequence](https://pintia.cn/problem-sets/994805342720868352/problems/994805381845336064) |                                                              | 1    |
 | A1010                                                        | [Radix](https://pintia.cn/problem-sets/994805342720868352/problems/994805507225665536) |      |
 | A1044                                                        | [ Favorite Color Stripe](https://pintia.cn/problem-sets/994805342720868352/problems/994805437411475456) |      |
@@ -168,8 +164,6 @@
 
 ### 6two  pointers（双指针）
 
-| 题号                                                         | 传送门                                                       | 说明 |
-| ------------------------------------------------------------ | ------------------------------------------------------------ | ---- |
 | B1030/A1085                                                  |                                                              |      |
 | B1035[ 插入与归并](https://pintia.cn/problem-sets/994805260223102976/problems/994805286714327040)/A1089[Insert or Merge](https://pintia.cn/problem-sets/994805342720868352/problems/994805377432928256) |                                                              |      |
 | A1029                                                        | [ Median](https://pintia.cn/problem-sets/994805342720868352/problems/994805466364755968) |      |
@@ -179,8 +173,6 @@
 
 ### 7其他高效技巧与算法
 
-| 题号                                                         | 传送门 | 说明 |
-| ------------------------------------------------------------ | ------ | ---- |
 | B1040[有几个PAT](https://pintia.cn/problem-sets/994805260223102976/problems/994805282389999616)/A1093[ Count PAT's](https://pintia.cn/problem-sets/994805342720868352/problems/994805373582557184) |        | 1    |
 | B1045[ 快速排序](https://pintia.cn/problem-sets/994805260223102976/problems/994805278589960192)/A1101[ Quick Sort](https://pintia.cn/problem-sets/994805342720868352/problems/994805366343188480) |        |      |
 
@@ -190,8 +182,6 @@
 
 ### 1简单数学（不简单）
 
-| 题号                                                         | 传送门                                                       | 说明 |
-| ------------------------------------------------------------ | ------------------------------------------------------------ | ---- |
 | B1003                                                        | [我要通过！](https://pintia.cn/problem-sets/994805260223102976/problems/994805323154440192) |      |
 | B1019[ 数字黑洞](https://pintia.cn/problem-sets/994805260223102976/problems/994805302786899968)/A1069[ The Black Hole of Numbers](https://pintia.cn/problem-sets/994805342720868352/problems/994805400954585088) |                                                              |      |
 | B1049[ 数列的片段和](https://pintia.cn/problem-sets/994805260223102976/problems/994805275792359424)/A1104[Sum of Number Segments](https://pintia.cn/problem-sets/994805342720868352/problems/994805363914686464) |                                                              | 1    |
@@ -202,29 +192,23 @@
 
 ### 2最大公约数和最小公倍数
 
-| 题号  | 传送门                                                       | 说明 |
-| ----- | ------------------------------------------------------------ | ---- |
 | B1008 | [ 数组元素循环右移问题](https://pintia.cn/problem-sets/994805260223102976/problems/994805316250615808) | 1    |
 
 
 
 ### 3分数的四则运算
 
-| 题号                                                         | 传送门                                                       | 说明 |
-| ------------------------------------------------------------ | ------------------------------------------------------------ | ---- |
-| A1081                                                        | [Rational Sum](https://pintia.cn/problem-sets/994805342720868352/problems/994805386161274880) |      |
+| A1081               | [Rational Sum](https://pintia.cn/problem-sets/994805342720868352/problems/994805386161274880) 
 | B1034[有理数四则运算](https://pintia.cn/problem-sets/994805260223102976/problems/994805287624491008)/A1088[ Rational Arithmetic](https://pintia.cn/problem-sets/994805342720868352/problems/994805378443755520) |                                                              |      |
 
 
 
 ### 4素数
 
-| 题号  | 传送门                                                       | 说明 |
-| ----- | ------------------------------------------------------------ | ---- |
-| B1007 | [ 素数对猜想](https://pintia.cn/problem-sets/994805260223102976/problems/994805317546655744) |      |
-| B1013 | [ 数素数](https://pintia.cn/problem-sets/994805260223102976/problems/994805309963354112) |      |
-| A1015 | [Reversible Primes](https://pintia.cn/problem-sets/994805342720868352/problems/994805495863296000) |      |
-| A1078 | [ Hashing](https://pintia.cn/problem-sets/994805342720868352/problems/994805389634158592) |      |
+| B1007 | [ 素数对猜想](https://pintia.cn/problem-sets/994805260223102976/problems/994805317546655744) 
+| B1013 | [ 数素数](https://pintia.cn/problem-sets/994805260223102976/problems/994805309963354112) 
+| A1015 | [Reversible Primes](https://pintia.cn/problem-sets/994805342720868352/problems/994805495863296000) 
+| A1078 | [ Hashing](https://pintia.cn/problem-sets/994805342720868352/problems/994805389634158592) 
 
 
 
@@ -232,8 +216,6 @@
 
 ### 5质因子分解
 
-| 题号  | 传送门                                                       | 说明 |
-| ----- | ------------------------------------------------------------ | ---- |
 | A1096 | [ Consecutive Factors](https://pintia.cn/problem-sets/994805342720868352/problems/994805370650738688) |      |
 | A1059 | [ Prime Factors](https://pintia.cn/problem-sets/994805342720868352/problems/994805415005503488) |      |
 
@@ -241,8 +223,6 @@
 
 ### 6大整数运算
 
-| 题号  | 传送门                                                       | 说明 |
-| ----- | ------------------------------------------------------------ | ---- |
 | B1017 | [ A除以B](https://pintia.cn/problem-sets/994805260223102976/problems/994805305181847552) |      |
 | A1023 | [Have Fun with Numbers](https://pintia.cn/problem-sets/994805342720868352/problems/994805478658260992) |      |
 | A1024 | [Palindromic Number](https://pintia.cn/problem-sets/994805342720868352/problems/994805476473028608) |      |
@@ -265,8 +245,6 @@
 
 ### 1 vector常用用法
 
-| 题号  | 传送门                                                       | 说明 |
-| ----- | ------------------------------------------------------------ | ---- |
 | A1039 | [Course List for Student](https://pintia.cn/problem-sets/994805342720868352/problems/994805447855292416) |      |
 | A1047 | [Student List for Course](https://pintia.cn/problem-sets/994805342720868352/problems/994805433955368960) |      |
 
@@ -274,24 +252,18 @@
 
 ### 2 set的常用用法
 
-| 题号  | 传送门                                                       | 说明 |
-| ----- | ------------------------------------------------------------ | ---- |
 | A1063 | [ Set Similarity](https://pintia.cn/problem-sets/994805342720868352/problems/994805409175420928) |      |
 
 
 
 ### 3string的常用用法
 
-| 题号  | 传送门                                                       | 说明 |
-| ----- | ------------------------------------------------------------ | ---- |
 | A1060 | [Are They Equal](https://pintia.cn/problem-sets/994805342720868352/problems/994805413520719872) |      |
 
 
 
 ### 4map的常用用法
 
-| 题号                                                         | 传送门                                                       | 说明 |
-| ------------------------------------------------------------ | ------------------------------------------------------------ | ---- |
 | B1044[ 火星数字](https://pintia.cn/problem-sets/994805260223102976/problems/994805279328157696)/A1100[ Mars Numbers](https://pintia.cn/problem-sets/994805342720868352/problems/994805367156883456) |                                                              | 1    |
 | A1054                                                        | [ The Dominant Color](https://pintia.cn/problem-sets/994805342720868352/problems/994805422639136768) | 1    |
 | A1071                                                        | [ Speech Patterns](https://pintia.cn/problem-sets/994805342720868352/problems/994805398257647616) |      |
@@ -329,24 +301,18 @@
 
 ### 1栈
 
-| 题号  | 传送门                                                       | 说明 |
-| ----- | ------------------------------------------------------------ | ---- |
 | A1051 | [Pop Sequence](https://pintia.cn/problem-sets/994805342720868352/problems/994805427332562944) |      |
 
 
 
 ### 2队列
 
-| 题号  | 传送门                                                       | 说明 |
-| ----- | ------------------------------------------------------------ | ---- |
-| A1056 | [Mice and Rice](https://pintia.cn/problem-sets/994805342720868352/problems/994805419468242944) |      |
+| A1056 | [Mice and Rice](https://pintia.cn/problem-sets/994805342720868352/problems/994805419468242944)
 
 
 
 ### 3链表
 
-| 题号                                                         | 传送门                                                       | 说明 |
-| ------------------------------------------------------------ | ------------------------------------------------------------ | ---- |
 | B1025[ 反转链表](https://pintia.cn/problem-sets/994805260223102976/problems/994805296180871168)/A1074[ Reversing Linked List](https://pintia.cn/problem-sets/994805342720868352/problems/994805394512134144) |                                                              |      |
 | A1032                                                        | [Sharing](https://pintia.cn/problem-sets/994805342720868352/problems/994805460652113920) |      |
 | A1052                                                        | [ Linked List Sorting](https://pintia.cn/problem-sets/994805342720868352/problems/994805425780670464) |      |
@@ -358,17 +324,13 @@
 
 ### 1DFS
 
-| 题号  | 传送门                                                       | 说明 |
-| ----- | ------------------------------------------------------------ | ---- |
-| A1103 | [ Integer Factorization](https://pintia.cn/problem-sets/994805342720868352/problems/994805364711604224) |      |
+| A1103 | [ Integer Factorization](https://pintia.cn/problem-sets/994805342720868352/problems/994805364711604224)
 
 
 
 ### 2BFS
 
-| 题号  | 传送门                                                       | 说明 |
-| ----- | ------------------------------------------------------------ | ---- |
-| A1091 | [ Acute Stroke](https://pintia.cn/problem-sets/994805342720868352/problems/994805375457411072) |      |
+| A1091 | [ Acute Stroke](https://pintia.cn/problem-sets/994805342720868352/problems/994805375457411072)
 
 
 
@@ -378,58 +340,46 @@
 
 ### 二叉树的遍历
 
-| 题号  | 传送门                                                       | 说明 |
-| ----- | ------------------------------------------------------------ | ---- |
-| A1020 | [ Tree Traversals](https://pintia.cn/problem-sets/994805342720868352/problems/994805485033603072) |      |
-| A1086 | [Tree Traversals Again](https://pintia.cn/problem-sets/994805342720868352/problems/994805380754817024) |      |
-| A1102 | [ Invert a Binary Tree](https://pintia.cn/problem-sets/994805342720868352/problems/994805365537882112) |      |
+| A1020 | [ Tree Traversals](https://pintia.cn/problem-sets/994805342720868352/problems/994805485033603072)
+| A1086 | [Tree Traversals Again](https://pintia.cn/problem-sets/994805342720868352/problems/994805380754817024)
+| A1102 | [ Invert a Binary Tree](https://pintia.cn/problem-sets/994805342720868352/problems/994805365537882112)
 
 
 
 ### 树的遍历
 
-| 题号  | 传送门                                                       | 说明 |
-| ----- | ------------------------------------------------------------ | ---- |
-| A1079 | [Total Sales of Supply Chain](https://pintia.cn/problem-sets/994805342720868352/problems/994805388447170560) |      |
-| A1090 | [ Highest Price in Supply Chain](https://pintia.cn/problem-sets/994805342720868352/problems/994805376476626944) |      |
-| A1094 | [ The Largest Generation](https://pintia.cn/problem-sets/994805342720868352/problems/994805372601090048) |      |
-| A1106 | [ Lowest Price in Supply Chain](https://pintia.cn/problem-sets/994805342720868352/problems/994805362341822464) |      |
-| A1004 | [Counting Leaves](https://pintia.cn/problem-sets/994805342720868352/problems/994805521431773184) |      |
-| A1053 | [Path of Equal Weight](https://pintia.cn/problem-sets/994805342720868352/problems/994805424153280512) |      |
+| A1079 | [Total Sales of Supply Chain](https://pintia.cn/problem-sets/994805342720868352/problems/994805388447170560)
+| A1090 | [ Highest Price in Supply Chain](https://pintia.cn/problem-sets/994805342720868352/problems/994805376476626944)
+| A1094 | [ The Largest Generation](https://pintia.cn/problem-sets/994805342720868352/problems/994805372601090048)
+| A1106 | [ Lowest Price in Supply Chain](https://pintia.cn/problem-sets/994805342720868352/problems/994805362341822464)
+| A1004 | [Counting Leaves](https://pintia.cn/problem-sets/994805342720868352/problems/994805521431773184)
+| A1053 | [Path of Equal Weight](https://pintia.cn/problem-sets/994805342720868352/problems/994805424153280512)
 
 
 
 ### 二叉查找树
 
-| 题号  | 传送门                                                       | 说明 |
-| ----- | ------------------------------------------------------------ | ---- |
-| A1043 | [ Is It a Binary Search Tree](https://pintia.cn/problem-sets/994805342720868352/problems/994805440976633856) |      |
-| A1064 | [Complete Binary Search Tree](https://pintia.cn/problem-sets/994805342720868352/problems/994805407749357568) |      |
-| A1099 | [Build A Binary Search Tree](https://pintia.cn/problem-sets/994805342720868352/problems/994805367987355648) |      |
+| A1043 | [ Is It a Binary Search Tree](https://pintia.cn/problem-sets/994805342720868352/problems/994805440976633856)
+| A1064 | [Complete Binary Search Tree](https://pintia.cn/problem-sets/994805342720868352/problems/994805407749357568)
+| A1099 | [Build A Binary Search Tree](https://pintia.cn/problem-sets/994805342720868352/problems/994805367987355648)
 
 
 
 ### 平衡二叉树
 
-| 题号  | 传送门                                                       | 说明 |
-| ----- | ------------------------------------------------------------ | ---- |
-| A1066 | [Root of AVL Tree](https://pintia.cn/problem-sets/994805342720868352/problems/994805404939173888) |      |
+| A1066 | [Root of AVL Tree](https://pintia.cn/problem-sets/994805342720868352/problems/994805404939173888)
 
 
 
 ### 并查集（重要）
 
-| 题号  | 传送门                                                       | 说明 |
-| ----- | ------------------------------------------------------------ | ---- |
-| A1107 | [ Social Clusters](https://pintia.cn/problem-sets/994805342720868352/problems/994805361586847744) |      |
+| A1107 | [ Social Clusters](https://pintia.cn/problem-sets/994805342720868352/problems/994805361586847744)
 
 
 
 ### 堆
 
-| 题号  | 传送门                                                       | 说明 |
-| ----- | ------------------------------------------------------------ | ---- |
-| A1098 | [ Insertion or Heap Sort](https://pintia.cn/problem-sets/994805342720868352/problems/994805368847187968) |      |
+| A1098 | [ Insertion or Heap Sort](https://pintia.cn/problem-sets/994805342720868352/problems/994805368847187968)
 
 
 
@@ -444,24 +394,20 @@
 
 ### 图的遍历
 
-| 题号  | 传送门                                                       | 说明 |
-| ----- | ------------------------------------------------------------ | ---- |
-| A1013 | [ Battle Over Cities](https://pintia.cn/problem-sets/994805342720868352/problems/994805500414115840) |      |
-| A1021 | [Deepest Root](https://pintia.cn/problem-sets/994805342720868352/problems/994805482919673856) |      |
-| A1024 | [Palindromic Number](https://pintia.cn/problem-sets/994805342720868352/problems/994805476473028608) |      |
-| A1076 | [ Forwards on Weibo](https://pintia.cn/problem-sets/994805342720868352/problems/994805392092020736) |      |
+| A1013 | [ Battle Over Cities](https://pintia.cn/problem-sets/994805342720868352/problems/994805500414115840)
+| A1021 | [Deepest Root](https://pintia.cn/problem-sets/994805342720868352/problems/994805482919673856)
+| A1024 | [Palindromic Number](https://pintia.cn/problem-sets/994805342720868352/problems/994805476473028608)
+| A1076 | [ Forwards on Weibo](https://pintia.cn/problem-sets/994805342720868352/problems/994805392092020736)
 
 
 
 ### 最短路径
 
-| 题号  | 传送门                                                       | 说明 |
-| ----- | ------------------------------------------------------------ | ---- |
-| A1003 | [Emergency](https://pintia.cn/problem-sets/994805342720868352/problems/994805523835109376) |      |
-| A1018 | [Public Bike Management](https://pintia.cn/problem-sets/994805342720868352/problems/994805489282433024) |      |
-| A1030 | [ Travel Plan](https://pintia.cn/problem-sets/994805342720868352/problems/994805464397627392) |      |
-| A1072 | [Gas Station](https://pintia.cn/problem-sets/994805342720868352/problems/994805396953219072) |      |
-| A1087 | [All Roads Lead to Rome](https://pintia.cn/problem-sets/994805342720868352/problems/994805379664297984) |      |
+| A1003 | [Emergency](https://pintia.cn/problem-sets/994805342720868352/problems/994805523835109376)
+| A1018 | [Public Bike Management](https://pintia.cn/problem-sets/994805342720868352/problems/994805489282433024)
+| A1030 | [ Travel Plan](https://pintia.cn/problem-sets/994805342720868352/problems/994805464397627392)
+| A1072 | [Gas Station](https://pintia.cn/problem-sets/994805342720868352/problems/994805396953219072)
+| A1087 | [All Roads Lead to Rome](https://pintia.cn/problem-sets/994805342720868352/problems/994805379664297984)
 
 - 最小生成树
 - 拓扑排序
@@ -475,8 +421,6 @@
 
 - 动态规划的递归和递推写法（准确说是迭代）
 
-
-
 - 最大连续子序列和A1007[ Maximum Subsequence Sum](https://pintia.cn/problem-sets/994805342720868352/problems/994805514284679168)
 - 最长不下降子序列（LIS）A1045[Favorite Color Stripe](https://pintia.cn/problem-sets/994805342720868352/problems/994805437411475456)
 - 最长公共子序列（LCS）A1045[Favorite Color Stripe](https://pintia.cn/problem-sets/994805342720868352/problems/994805437411475456)
@@ -487,14 +431,7 @@
 
 
 
-
-
-
-
-
 ## 十、高级字符串算法
-
-
 
 - 字符串hash   A1040[Longest Symmetric String](https://pintia.cn/problem-sets/994805342720868352/problems/994805446102073344)
 - KMP算法
