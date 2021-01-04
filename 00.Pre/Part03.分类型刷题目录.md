@@ -3,29 +3,38 @@
 
 
 - 基于『算法笔记』主体
+
 - 辅以笔者刷过的的**『牛客』**和**『北大百练』**进行分类训练。
-- 说明中：『1』表示已更新
+
+
+> | 标识符 | 意义     |
+> | ------ | -------- |
+> | B      | PAT乙级  |
+> | A      | PAT甲级  |
+> | S      | PAT顶级  |
+> | 百练   | 北大百练 |
+> | 牛客   | 牛客网   |
+>
+> 说明中：『1』表示已更新
 
 ## 一、入门模拟（模拟）
 
 ### 1简单模拟
 
-| 题号  | 传送门                                                       | 说明 |
-| ----- | ------------------------------------------------------------ | ---- |
-| B1001 | [害死人不偿命的(3n+1)猜想](https://pintia.cn/problem-sets/994805260223102976/problems/994805325918486528) | 1    |
-| B1011 | [A+B 和 C](https://pintia.cn/problem-sets/994805260223102976/problems/994805312417021952) | 1    |
-| B1016 | [部分A+B](https://pintia.cn/problem-sets/994805260223102976/problems/994805306310115328) | 1    |
-| B1026 | [程序运行时间](https://pintia.cn/problem-sets/994805260223102976/problems/994805295203598336) | 1    |
-| B1046 | [划拳](https://pintia.cn/problem-sets/994805260223102976/problems/994805277847568384) | 1    |
-| B1008 | [数组元素循环右移问题](https://pintia.cn/problem-sets/994805260223102976/problems/994805316250615808) | 1    |
-| B1012 | [数字分类](https://pintia.cn/problem-sets/994805260223102976/problems/994805311146147840) | 1    |
-| B1018 | [锤子剪刀布](https://pintia.cn/problem-sets/994805260223102976/problems/994805304020025344) | 1    |
-| A1042 | [Shuffling Machine](https://pintia.cn/problem-sets/994805342720868352/problems/994805442671132672) | 1    |
-| A1046 | [Shortest Distance](https://pintia.cn/problem-sets/994805342720868352/problems/994805435700199424) | 1    |
-| A1065 | [A+B and C (64bit)](https://pintia.cn/problem-sets/994805342720868352/problems/994805406352654336) | 1    |
-| B1010 | [一元多项式求导](https://pintia.cn/problem-sets/994805260223102976/problems/994805313708867584) | 1    |
-| A1002 | [A+B for Polynomials](https://pintia.cn/problem-sets/994805342720868352/problems/994805526272000000) |      |
-| A1009 | [Product of Polynomials](https://pintia.cn/problem-sets/994805342720868352/problems/994805509540921344) |      |
+- [x] | B1001 | [害死人不偿命的(3n+1)猜想](https://pintia.cn/problem-sets/994805260223102976/problems/994805325918486528) 
+- [x] | B1011 | [A+B 和 C](https://pintia.cn/problem-sets/994805260223102976/problems/994805312417021952) 
+- [x] | B1016 | [部分A+B](https://pintia.cn/problem-sets/994805260223102976/problems/994805306310115328) 
+- [x] | B1026 | [程序运行时间](https://pintia.cn/problem-sets/994805260223102976/problems/994805295203598336) 
+- [x] | B1046 | [划拳](https://pintia.cn/problem-sets/994805260223102976/problems/994805277847568384) 
+- [x] | B1008 | [数组元素循环右移问题](https://pintia.cn/problem-sets/994805260223102976/problems/994805316250615808) 
+- [x] | B1012 | [数字分类](https://pintia.cn/problem-sets/994805260223102976/problems/994805311146147840) 
+- [x] | B1018 | [锤子剪刀布](https://pintia.cn/problem-sets/994805260223102976/problems/994805304020025344) 
+- [x] | A1042 | [Shuffling Machine](https://pintia.cn/problem-sets/994805342720868352/problems/994805442671132672) 
+- [x] | A1046 | [Shortest Distance](https://pintia.cn/problem-sets/994805342720868352/problems/994805435700199424) 
+- [x] | A1065 | [A+B and C (64bit)](https://pintia.cn/problem-sets/994805342720868352/problems/994805406352654336) 
+- [x] | B1010 | [一元多项式求导](https://pintia.cn/problem-sets/994805260223102976/problems/994805313708867584) 
+- [ ] | A1002 | [A+B for Polynomials](https://pintia.cn/problem-sets/994805342720868352/problems/994805526272000000) 
+- [ ] | A1009 | [Product of Polynomials](https://pintia.cn/problem-sets/994805342720868352/problems/994805509540921344) 
 
 
 
@@ -33,15 +42,13 @@
 
 ### 2查找元素
 
-| 题号  | 传送门                                                       | 说明 |
-| ----- | ------------------------------------------------------------ | ---- |
-| B1041 | [考试座位号](https://pintia.cn/problem-sets/994805260223102976/problems/994805281567916032) | 1    |
-| B1004 | [ 成绩排名](https://pintia.cn/problem-sets/994805260223102976/problems/994805321640296448) | 1    |
-| B1028 | [人口普查](https://pintia.cn/problem-sets/994805260223102976/problems/994805293282607104) | 1    |
-| B1032 | [ 挖掘机技术哪家强](https://pintia.cn/problem-sets/994805260223102976/problems/994805289432236032) | 1    |
-| A1011 | [World Cup Betting](https://pintia.cn/problem-sets/994805342720868352/problems/994805504927186944) | 1    |
-| A1006 | [Sign In and Sign Out](https://pintia.cn/problem-sets/994805342720868352/problems/994805516654460928) | 1    |
-| A1036 | [ Boys vs Girls](https://pintia.cn/problem-sets/994805342720868352/problems/994805453203030016) | 1    |
+- [x] | B1041 | [考试座位号](https://pintia.cn/problem-sets/994805260223102976/problems/994805281567916032) 
+- [x] | B1004 | [ 成绩排名](https://pintia.cn/problem-sets/994805260223102976/problems/994805321640296448) 
+- [x] | B1028 | [人口普查](https://pintia.cn/problem-sets/994805260223102976/problems/994805293282607104) 
+- [x] | B1032 | [ 挖掘机技术哪家强](https://pintia.cn/problem-sets/994805260223102976/problems/994805289432236032) 
+- [x] | A1011 | [World Cup Betting](https://pintia.cn/problem-sets/994805342720868352/problems/994805504927186944) 
+- [x] | A1006 | [Sign In and Sign Out](https://pintia.cn/problem-sets/994805342720868352/problems/994805516654460928) 
+- [x] | A1036 | [ Boys vs Girls](https://pintia.cn/problem-sets/994805342720868352/problems/994805453203030016) 
 
 
 
@@ -49,11 +56,9 @@
 
 ### 3图形输出
 
-| 题号  | 传送门                                                       | 说明 |
-| ----- | ------------------------------------------------------------ | ---- |
-| B1036 | [ 跟奥巴马一起编程](https://pintia.cn/problem-sets/994805260223102976/problems/994805285812551680) | 1    |
-| B1027 | [ 打印沙漏](https://pintia.cn/problem-sets/994805260223102976/problems/994805294251491328) | 1    |
-| A1031 | [ Hello World for U](https://pintia.cn/problem-sets/994805342720868352/problems/994805462535356416) |      |
+- [x] B1036 | [ 跟奥巴马一起编程](https://pintia.cn/problem-sets/994805260223102976/problems/994805285812551680) 
+- [x] | B1027 | [ 打印沙漏](https://pintia.cn/problem-sets/994805260223102976/problems/994805294251491328) 
+- [ ] | A1031 | [ Hello World for U](https://pintia.cn/problem-sets/994805342720868352/problems/994805462535356416) |      |
 
 
 
@@ -61,17 +66,17 @@
 
 - 无
 
+  
+
 
 
 ### 5进制转换
 
-| 题号  | 传送门                                                       | 说明 |
-| ----- | ------------------------------------------------------------ | ---- |
-| B1022 | [D进制的A+B](https://pintia.cn/problem-sets/994805260223102976/problems/994805299301433344) | 1    |
-| B1037 | [在霍格沃茨找零钱](https://pintia.cn/problem-sets/994805260223102976/problems/994805284923359232) |      |
-| A1019 | [General Palindromic Number](https://pintia.cn/problem-sets/994805342720868352/problems/994805487143337984) |      |
-| A1027 | [ Colors in Mars](https://pintia.cn/problem-sets/994805342720868352/problems/994805470349344768) |      |
-| A1058 | [ A+B in Hogwarts](https://pintia.cn/problem-sets/994805342720868352/problems/994805416519647232) |      |
+- [x] | B1022 | [D进制的A+B](https://pintia.cn/problem-sets/994805260223102976/problems/994805299301433344) 
+- [ ] | B1037 | [在霍格沃茨找零钱](https://pintia.cn/problem-sets/994805260223102976/problems/994805284923359232) 
+- [ ] | A1019 | [General Palindromic Number](https://pintia.cn/problem-sets/994805342720868352/problems/994805487143337984) 
+- [ ] | A1027 | [ Colors in Mars](https://pintia.cn/problem-sets/994805342720868352/problems/994805470349344768) 
+- [ ] | A1058 | [ A+B in Hogwarts](https://pintia.cn/problem-sets/994805342720868352/problems/994805416519647232) 
 
 
 
@@ -79,21 +84,19 @@
 
 ### 6字符串处理
 
-| 题号                                                         | 传送门                                                       | 说明 |
-| ------------------------------------------------------------ | ------------------------------------------------------------ | ---- |
-| B1006                                                        | [换个格式输出整数](https://pintia.cn/problem-sets/994805260223102976/problems/994805318855278592) | 1    |
-| B1021                                                        | [个位数统计](https://pintia.cn/problem-sets/994805260223102976/problems/994805300404535296) | 1    |
-| B1031                                                        | [查验身份证](https://pintia.cn/problem-sets/994805260223102976/problems/994805290334011392) | 1    |
-| B1002                                                        | [ 写出这个数](https://pintia.cn/problem-sets/994805260223102976/problems/994805324509200384) | 1    |
-| B1009                                                        | [ 说反话](https://pintia.cn/problem-sets/994805260223102976/problems/994805314941992960) | 1    |
-| B1014[ 福尔摩斯的约会](https://pintia.cn/problem-sets/994805260223102976/problems/994805308755394560)/A1061[Dating](https://pintia.cn/problem-sets/994805342720868352/problems/994805411985604608) | 同样代码AC                                                   | 1    |
-| B1024[科学计数法](https://pintia.cn/problem-sets/994805260223102976/problems/994805297229447168)A1073[Scientific Notation](https://pintia.cn/problem-sets/994805342720868352/problems/994805395707510784) |                                                              | 1    |
-| B1048                                                        | [ 数字加密](https://pintia.cn/problem-sets/994805260223102976/problems/994805276438282240) |      |
-| A1001                                                        | [ A+B Format](https://pintia.cn/problem-sets/994805342720868352/problems/994805528788582400) | 1    |
-| A1005                                                        | [ Spell It Right](https://pintia.cn/problem-sets/994805342720868352/problems/994805519074574336) |      |
-| A1035                                                        | [Password](https://pintia.cn/problem-sets/994805342720868352/problems/994805454989803520) |      |
-| A1077                                                        | [ Kuchiguse](https://pintia.cn/problem-sets/994805342720868352/problems/994805390896644096) |      |
-| A1082                                                        | [Read Number in Chinese](https://pintia.cn/problem-sets/994805342720868352/problems/994805385053978624) |      |
+- [x]  B1006                                                        | [换个格式输出整数](https://pintia.cn/problem-sets/994805260223102976/problems/994805318855278592) | 1    |
+- [x]  B1021                                                        | [个位数统计](https://pintia.cn/problem-sets/994805260223102976/problems/994805300404535296) | 1    |
+- [x]  B1031                                                        | [查验身份证](https://pintia.cn/problem-sets/994805260223102976/problems/994805290334011392) | 1    |
+- [x]  B1002                                                        | [ 写出这个数](https://pintia.cn/problem-sets/994805260223102976/problems/994805324509200384) | 1    |
+- [x]  B1009                                                        | [ 说反话](https://pintia.cn/problem-sets/994805260223102976/problems/994805314941992960) | 1    |
+- [x]  B1014                [ 福尔摩斯的约会](https://pintia.cn/problem-sets/994805260223102976/problems/994805308755394560)/A1061[Dating](https://pintia.cn/problem-sets/994805342720868352/problems/994805411985604608) | 同样代码AC                                                   | 1    |
+- [x]  B1024[科学计数法](https://pintia.cn/problem-sets/994805260223102976/problems/994805297229447168)A1073[Scientific Notation](https://pintia.cn/problem-sets/994805342720868352/problems/994805395707510784) |                                                              | 1    |
+- [ ]  B1048                                                        | [ 数字加密](https://pintia.cn/problem-sets/994805260223102976/problems/994805276438282240) |      |
+- [x]  A1001                                                        | [ A+B Format](https://pintia.cn/problem-sets/994805342720868352/problems/994805528788582400) | 1    |
+- [ ]  A1005                                                        | [ Spell It Right](https://pintia.cn/problem-sets/994805342720868352/problems/994805519074574336) |      |
+- [ ]  A1035                                                        | [Password](https://pintia.cn/problem-sets/994805342720868352/problems/994805454989803520) |      |
+- [ ]  A1077                                                        | [ Kuchiguse](https://pintia.cn/problem-sets/994805342720868352/problems/994805390896644096) |      |
+- [ ] A1082                                                        | [Read Number in Chinese](https://pintia.cn/problem-sets/994805342720868352/problems/994805385053978624) |      |
 
 
 
@@ -103,25 +106,21 @@
 
 ### 1排序
 
-| 题号                                                         | 传送门                                                       | 说明 |
-| ------------------------------------------------------------ | ------------------------------------------------------------ | ---- |
-| B1015[ 德才论](https://pintia.cn/problem-sets/994805260223102976/problems/994805307551629312)/A1062[Talent and Virtue](https://pintia.cn/problem-sets/994805342720868352/problems/994805410555346944) |                                                              |      |
-| A1012                                                        | [The Best Rank](https://pintia.cn/problem-sets/994805342720868352/problems/994805502658068480) |      |
-| A1016                                                        | [ Phone Bills](https://pintia.cn/problem-sets/994805342720868352/problems/994805493648703488) |      |
-| A1025                                                        | [ PAT Ranking](https://pintia.cn/problem-sets/994805342720868352/problems/994805474338127872) |      |
-| A1028                                                        | [ List Sorting](https://pintia.cn/problem-sets/994805342720868352/problems/994805468327690240) |      |
-| A1055                                                        | [ The World's Richest](https://pintia.cn/problem-sets/994805342720868352/problems/994805421066272768) |      |
-| A1075                                                        | [ PAT Judge](https://pintia.cn/problem-sets/994805342720868352/problems/994805393241260032) |      |
-| A1083                                                        | [ List Grades](https://pintia.cn/problem-sets/994805342720868352/problems/994805383929905152) |      |
-| A1080                                                        | [ Graduate Admission](https://pintia.cn/problem-sets/994805342720868352/problems/994805387268571136) |      |
-| A1095                                                        | [ Cars on Campus](https://pintia.cn/problem-sets/994805342720868352/problems/994805371602845696) |      |
+- [ ] | B1015[ 德才论](https://pintia.cn/problem-sets/994805260223102976/problems/994805307551629312)/A1062[Talent and Virtue](https://pintia.cn/problem-sets/994805342720868352/problems/994805410555346944) 
+- [ ] | A1012                                                        | [The Best Rank](https://pintia.cn/problem-sets/994805342720868352/problems/994805502658068480) |      |
+  | A1016                                                        | [ Phone Bills](https://pintia.cn/problem-sets/994805342720868352/problems/994805493648703488) |      |
+  | A1025                                                        | [ PAT Ranking](https://pintia.cn/problem-sets/994805342720868352/problems/994805474338127872) |      |
+  | A1028                                                        | [ List Sorting](https://pintia.cn/problem-sets/994805342720868352/problems/994805468327690240) |      |
+  | A1055                                                        | [ The World's Richest](https://pintia.cn/problem-sets/994805342720868352/problems/994805421066272768) |      |
+  | A1075                                                        | [ PAT Judge](https://pintia.cn/problem-sets/994805342720868352/problems/994805393241260032) |      |
+  | A1083                                                        | [ List Grades](https://pintia.cn/problem-sets/994805342720868352/problems/994805383929905152) | 1    |
+  | A1080                                                        | [ Graduate Admission](https://pintia.cn/problem-sets/994805342720868352/problems/994805387268571136) |      |
+  | A1095                                                        | [ Cars on Campus](https://pintia.cn/problem-sets/994805342720868352/problems/994805371602845696) |      |
 
 
 
 ### 2散列（哈希）
 
-| 题号                                                         | 传送门                                                       | 说明 |
-| ------------------------------------------------------------ | ------------------------------------------------------------ | ---- |
 | B1029[旧键盘](https://pintia.cn/problem-sets/994805260223102976/problems/994805292322111488)/1084[Broken Keyboard](https://pintia.cn/problem-sets/994805342720868352/problems/994805382902300672) |                                                              | 1    |
 | B1033                                                        | [ 旧键盘打字](https://pintia.cn/problem-sets/994805260223102976/problems/994805288530460672) |      |
 | B1038                                                        | [ 统计同成绩学生](https://pintia.cn/problem-sets/994805260223102976/problems/994805284092887040) | 1    |
@@ -506,22 +505,14 @@
 
 ## T、其他高级数据结构（ACM类）
 
-- 分块思想：A1057[Stack](https://pintia.cn/problem-sets/994805342720868352/problems/994805417945710592)
 
-- 树状数组：A1057
-
-  
-
-  
-
-### 快乐模拟
-
-| 题号                                                         | 传送门                                                       | 说明 |
-| ------------------------------------------------------------ | ------------------------------------------------------------ | ---- |
-| B1050[ 螺旋矩阵](https://pintia.cn/problem-sets/994805260223102976/problems/994805275146436608)/A1105[ Spiral Matrix](https://pintia.cn/problem-sets/994805342720868352/problems/994805363117768704) |                                                              |      |
-| A1017                                                        | [ Eddington Number](https://pintia.cn/problem-sets/994805342720868352/problems/994805354762715136) |      |
-| A1014                                                        | [ Family Property](https://pintia.cn/problem-sets/994805342720868352/problems/994805356599820288) |      |
-| A1026                                                        | [Eulerian Path](https://pintia.cn/problem-sets/994805342720868352/problems/994805349851185152) |      |
+- 分块思想/树状数组：
+- [ ] A1057[Stack](https://pintia.cn/problem-sets/994805342720868352/problems/994805417945710592)
+- 快乐模拟:
+- [ ] | B1050[ 螺旋矩阵](https://pintia.cn/problem-sets/994805260223102976/problems/994805275146436608)/A1105[ Spiral Matrix](https://pintia.cn/problem-sets/994805342720868352/problems/994805363117768704) |         
+- [ ] | A1017   | [ Eddington Number](https://pintia.cn/problem-sets/994805342720868352/problems/994805354762715136) 
+- [ ] | A1014   | [ Family Property](https://pintia.cn/problem-sets/994805342720868352/problems/994805356599820288) 
+- [ ] | A1026   | [Eulerian Path](https://pintia.cn/problem-sets/994805342720868352/problems/994805349851185152) 
 
 
 
