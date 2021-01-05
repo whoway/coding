@@ -58,7 +58,7 @@
 
 - [x] B1036 | [ 跟奥巴马一起编程](https://pintia.cn/problem-sets/994805260223102976/problems/994805285812551680) 
 - [x] | B1027 | [ 打印沙漏](https://pintia.cn/problem-sets/994805260223102976/problems/994805294251491328) 
-- [ ] | A1031 | [ Hello World for U](https://pintia.cn/problem-sets/994805342720868352/problems/994805462535356416) |      |
+- [x] | A1031 | [ Hello World for U](https://pintia.cn/problem-sets/994805342720868352/problems/994805462535356416) 
 
 
 
@@ -75,8 +75,8 @@
 - [x] | B1022 | [D进制的A+B](https://pintia.cn/problem-sets/994805260223102976/problems/994805299301433344) 
 - [ ] | B1037 | [在霍格沃茨找零钱](https://pintia.cn/problem-sets/994805260223102976/problems/994805284923359232) 
 - [ ] | A1019 | [General Palindromic Number](https://pintia.cn/problem-sets/994805342720868352/problems/994805487143337984) 
-- [ ] | A1027 | [ Colors in Mars](https://pintia.cn/problem-sets/994805342720868352/problems/994805470349344768) 
-- [ ] | A1058 | [ A+B in Hogwarts](https://pintia.cn/problem-sets/994805342720868352/problems/994805416519647232) 
+- [x] | A1027 | [ Colors in Mars](https://pintia.cn/problem-sets/994805342720868352/problems/994805470349344768) 
+- [x] | A1058 | [ A+B in Hogwarts](https://pintia.cn/problem-sets/994805342720868352/problems/994805416519647232) 
 
 
 
