@@ -33,9 +33,9 @@
 - [x] | B1018 | [锤子剪刀布](https://pintia.cn/problem-sets/994805260223102976/problems/994805304020025344) 
 - [x] | A1042 | [Shuffling Machine](https://pintia.cn/problem-sets/994805342720868352/problems/994805442671132672) 
 - [x] | A1046 | [Shortest Distance](https://pintia.cn/problem-sets/994805342720868352/problems/994805435700199424) 
-- [x] | A1065 | [A+B and C (64bit)](https://pintia.cn/problem-sets/994805342720868352/problems/994805406352654336) 
+- [x] | A1065 | [A+B and C (64bit)](https://pintia.cn/problem-sets/994805342720868352/problems/994805406352654336)  | （很有用的技巧，判断64位的溢出）
 - [x] | B1010 | [一元多项式求导](https://pintia.cn/problem-sets/994805260223102976/problems/994805313708867584) 
-- [ ] | A1002 | [A+B for Polynomials](https://pintia.cn/problem-sets/994805342720868352/problems/994805526272000000) 
+- [x] | A1002 | [A+B for Polynomials](https://pintia.cn/problem-sets/994805342720868352/problems/994805526272000000)  | 最常见编程技巧和注意事项：浮点数之间的比较
 - [ ] | A1009 | [Product of Polynomials](https://pintia.cn/problem-sets/994805342720868352/problems/994805509540921344) 
 
 
@@ -69,8 +69,8 @@
 ### 5进制转换
 
 - [x] | B1022 | [D进制的A+B](https://pintia.cn/problem-sets/994805260223102976/problems/994805299301433344) 
-- [ ] | B1037 | [在霍格沃茨找零钱](https://pintia.cn/problem-sets/994805260223102976/problems/994805284923359232) 
-- [ ] | A1019 | [General Palindromic Number](https://pintia.cn/problem-sets/994805342720868352/problems/994805487143337984) 
+- [x] | B1037 | [在霍格沃茨找零钱](https://pintia.cn/problem-sets/994805260223102976/problems/994805284923359232) 
+- [x] | A1019 | [General Palindromic Number](https://pintia.cn/problem-sets/994805342720868352/problems/994805487143337984) 
 - [x] | A1027 | [ Colors in Mars](https://pintia.cn/problem-sets/994805342720868352/problems/994805470349344768) 
 - [x] | A1058 | [ A+B in Hogwarts](https://pintia.cn/problem-sets/994805342720868352/problems/994805416519647232) 
 
@@ -78,19 +78,19 @@
 
 ### 6字符串处理
 
-- [x]  B1006                                                        | [换个格式输出整数](https://pintia.cn/problem-sets/994805260223102976/problems/994805318855278592) | 1    |
-- [x]  B1021                                                        | [个位数统计](https://pintia.cn/problem-sets/994805260223102976/problems/994805300404535296) | 1    |
-- [x]  B1031                                                        | [查验身份证](https://pintia.cn/problem-sets/994805260223102976/problems/994805290334011392) | 1    |
-- [x]  B1002                                                        | [ 写出这个数](https://pintia.cn/problem-sets/994805260223102976/problems/994805324509200384) | 1    |
-- [x]  B1009                                                        | [ 说反话](https://pintia.cn/problem-sets/994805260223102976/problems/994805314941992960) | 1    |
-- [x]  B1014    |[ 福尔摩斯的约会](https://pintia.cn/problem-sets/994805260223102976/problems/994805308755394560)/A1061[Dating](https://pintia.cn/problem-sets/994805342720868352/problems/994805411985604608) | 同样代码AC                                                    
-- [x]  B1024  |[科学计数法](https://pintia.cn/problem-sets/994805260223102976/problems/994805297229447168)A1073[Scientific Notation](https://pintia.cn/problem-sets/994805342720868352/problems/994805395707510784)                
-- [x]  B1048                                                        | [ 数字加密](https://pintia.cn/problem-sets/994805260223102976/problems/994805276438282240) | 
-- [x]  A1001                                                        | [ A+B Format](https://pintia.cn/problem-sets/994805342720868352/problems/994805528788582400) |  
-- [x]  A1005                                                        | [ Spell It Right](https://pintia.cn/problem-sets/994805342720868352/problems/994805519074574336) |      
-- [ ]  A1035                                                        | [Password](https://pintia.cn/problem-sets/994805342720868352/problems/994805454989803520) |     
-- [ ]  A1077                                                        | [ Kuchiguse](https://pintia.cn/problem-sets/994805342720868352/problems/994805390896644096) |    
-- [ ] A1082                                                        | [Read Number in Chinese](https://pintia.cn/problem-sets/994805342720868352/problems/994805385053978624) |  
+- [x]  B1006                                                        | [换个格式输出整数](https://pintia.cn/problem-sets/994805260223102976/problems/994805318855278592)  
+- [x]  B1021                                                        | [个位数统计](https://pintia.cn/problem-sets/994805260223102976/problems/994805300404535296)  
+- [x]  B1031                                                        | [查验身份证](https://pintia.cn/problem-sets/994805260223102976/problems/994805290334011392)  
+- [x]  B1002                                                        | [ 写出这个数](https://pintia.cn/problem-sets/994805260223102976/problems/994805324509200384)  
+- [x]  B1009                                                        | [ 说反话](https://pintia.cn/problem-sets/994805260223102976/problems/994805314941992960)  
+- [x]  B1014                                                        |[ 福尔摩斯的约会](https://pintia.cn/problem-sets/994805260223102976/problems/994805308755394560)/A1061[Dating](https://pintia.cn/problem-sets/994805342720868352/problems/994805411985604608) | 同样代码AC                                                    
+- [x]  B1024                                                        |[科学计数法](https://pintia.cn/problem-sets/994805260223102976/problems/994805297229447168)A1073[Scientific Notation](https://pintia.cn/problem-sets/994805342720868352/problems/994805395707510784)                
+- [x]  B1048                                                        | [ 数字加密](https://pintia.cn/problem-sets/994805260223102976/problems/994805276438282240)  
+- [x]  A1001                                                        | [ A+B Format](https://pintia.cn/problem-sets/994805342720868352/problems/994805528788582400)  
+- [x]  A1005                                                        | [ Spell It Right](https://pintia.cn/problem-sets/994805342720868352/problems/994805519074574336)        
+- [ ]  A1035                                                        | [Password](https://pintia.cn/problem-sets/994805342720868352/problems/994805454989803520)       
+- [ ]  A1077                                                        | [ Kuchiguse](https://pintia.cn/problem-sets/994805342720868352/problems/994805390896644096)      
+- [ ] A1082                                                        | [Read Number in Chinese](https://pintia.cn/problem-sets/994805342720868352/problems/994805385053978624)    
 
 
 
@@ -118,7 +118,7 @@
 - [x] | B1029[旧键盘](https://pintia.cn/problem-sets/994805260223102976/problems/994805292322111488)/1084[Broken Keyboard](https://pintia.cn/problem-sets/994805342720868352/problems/994805382902300672) |                                                    
 - [ ] | B1033                                                        | [ 旧键盘打字](https://pintia.cn/problem-sets/994805260223102976/problems/994805288530460672) 
 - [x] | B1038                                                        | [ 统计同成绩学生](https://pintia.cn/problem-sets/994805260223102976/problems/994805284092887040)  
-- [ ] | B1039[ 到底买不买](https://pintia.cn/problem-sets/994805260223102976/problems/994805283241443328)/A1092[ To Buy or Not to Buy](https://pintia.cn/problem-sets/994805342720868352/problems/994805374509498368) |                    
+- [ ] | B1039                                                        |[ 到底买不买](https://pintia.cn/problem-sets/994805260223102976/problems/994805283241443328)/A1092[ To Buy or Not to Buy](https://pintia.cn/problem-sets/994805342720868352/problems/994805374509498368)         
 - [x] | B1042                                                        | [ 字符统计](https://pintia.cn/problem-sets/994805260223102976/problems/994805280817135616)  
 - [x] | B1043                                                        | [输出PATest](https://pintia.cn/problem-sets/994805260223102976/problems/994805280074743808)  
 - [x] | B1047                                                        | [编程团体赛](https://pintia.cn/problem-sets/994805260223102976/problems/994805277163896832)  
@@ -139,11 +139,11 @@
 ### 4贪心
 
 - [x] | B1023                                                        | [组个最小数](https://pintia.cn/problem-sets/994805260223102976/problems/994805298269634560)  
-- [ ] | B1020[月饼](https://pintia.cn/problem-sets/994805260223102976/problems/994805301562163200)/A1070[Mooncake](https://pintia.cn/problem-sets/994805342720868352/problems/994805399578853376) |                                                             
+- [ ] | B1020                                                        |[月饼](https://pintia.cn/problem-sets/994805260223102976/problems/994805301562163200)/A1070[Mooncake](https://pintia.cn/problem-sets/994805342720868352/problems/994805399578853376) |                                                             
 - [ ] | A1033                                                        | [To Fill or Not to Fill](https://pintia.cn/problem-sets/994805342720868352/problems/994805458722734080)  
 - [ ] | A1037                                                        | [Magic Coupon](https://pintia.cn/problem-sets/994805342720868352/problems/994805451374313472)  
 - [ ] | A1067                                                        | [ Sort with Swap(0, i)](https://pintia.cn/problem-sets/994805342720868352/problems/994805403651522560)  
-- [ ] | A1038                                                        | [ Recover the Smallest Number](https://pintia.cn/problem-sets/994805342720868352/problems/994805449625288704) | 
+- [ ] | A1038                                                        | [ Recover the Smallest Number](https://pintia.cn/problem-sets/994805342720868352/problems/994805449625288704)   
 
 
 
