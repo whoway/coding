@@ -154,7 +154,7 @@
 - [x] | B1030[ 完美数列](https://pintia.cn/problem-sets/994805260223102976/problems/994805291311284224)/A1085[Perfect Sequence](https://pintia.cn/problem-sets/994805342720868352/problems/994805381845336064)  
 - [ ] | A1010                                                        | [Radix](https://pintia.cn/problem-sets/994805342720868352/problems/994805507225665536)  
 - [ ] | A1044                                                        | [ Favorite Color Stripe](https://pintia.cn/problem-sets/994805342720868352/problems/994805437411475456)  
-- [ ] | A1048                                                        | [ Find Coins](https://pintia.cn/problem-sets/994805342720868352/problems/994805432256675840)  
+- [x] | A1048                                                        | [ Find Coins](https://pintia.cn/problem-sets/994805342720868352/problems/994805432256675840)  （亦是散列）
 
 
 
@@ -179,8 +179,8 @@
 ### 1简单数学（不简单）
 
 - [ ] | B1003                                                        | [我要通过！](https://pintia.cn/problem-sets/994805260223102976/problems/994805323154440192) |   
-- [ ] | B1019[ 数字黑洞](https://pintia.cn/problem-sets/994805260223102976/problems/994805302786899968)/A1069[ The Black Hole of Numbers](https://pintia.cn/problem-sets/994805342720868352/problems/994805400954585088) |                                                          
-- [x] | B1049[ 数列的片段和](https://pintia.cn/problem-sets/994805260223102976/problems/994805275792359424)/A1104[Sum of Number Segments](https://pintia.cn/problem-sets/994805342720868352/problems/994805363914686464) |                                              
+- [x] | B1019[ 数字黑洞](https://pintia.cn/problem-sets/994805260223102976/problems/994805302786899968)/A1069[ The Black Hole of Numbers](https://pintia.cn/problem-sets/994805342720868352/problems/994805400954585088) |                                                          
+- [x] | B1049[ 数列的片段和](https://pintia.cn/problem-sets/994805260223102976/problems/994805275792359424)/A1104[Sum of Number Segments](https://pintia.cn/problem-sets/994805342720868352/problems/994805363914686464) |  『找规律好题』                                    
 - [ ] | A1008                                                        | [Elevator](https://pintia.cn/problem-sets/994805342720868352/problems/994805511923286016) |    
 - [ ] | A1049                                                        | [Counting Ones](https://pintia.cn/problem-sets/994805342720868352/problems/994805430595731456) |    
 
