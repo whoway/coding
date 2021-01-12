@@ -12,11 +12,13 @@ static const int maxn=1e5+5;
 
 ```txt
 常用变量名：
-loop 循环
-sentry 哨兵
-ret  返回值
+loop  循环   
+sentry哨兵
+ret   返回值
 res/result  结果
-INF 很大的值
+INF / MAXN / N   很大的值
+odd   奇数 
+even  偶数
 ```
 
 
@@ -26,7 +28,7 @@ INF 很大的值
 ## 二、格式化输出模板
 
 ```cpp
-while( loop )
+while( loop-- )
 {
     printf("%d%c",solve[loop], loop?' ': '\n');
     //等价于printf("%d%c",solve[loop], loop?: 32 : 10);  
@@ -46,6 +48,8 @@ while( loop )
 `%03d`表示输出3位整数，不满3位的高位补『0』
 
 **2、四舍五入『模板』**
+
+- +0.5是精髓
 
 ```cpp
 double num=3.5;
@@ -158,4 +162,34 @@ C语言printf函数%.2f输出为什么四舍五入实现机制不同？
 ```
 
 知乎上[回答](https://www.zhihu.com/question/364159510)
+
+
+
+## 四、判断某个整数奇/偶
+
+```cpp
+int n;
+if( n&1 )
+{
+    //奇数
+}
+else
+{
+	//偶数
+}
+```
+
+## 五、判断是否非0
+
+```cp
+int n;
+if( n )
+{
+	//n=1，还有n=-1啥的
+}
+```
+
+
+
+
 

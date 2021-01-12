@@ -118,7 +118,7 @@
 - [x] | B1029[旧键盘](https://pintia.cn/problem-sets/994805260223102976/problems/994805292322111488)/1084[Broken Keyboard](https://pintia.cn/problem-sets/994805342720868352/problems/994805382902300672) |                                                    
 - [ ] | B1033                                                        | [ 旧键盘打字](https://pintia.cn/problem-sets/994805260223102976/problems/994805288530460672) 
 - [x] | B1038                                                        | [ 统计同成绩学生](https://pintia.cn/problem-sets/994805260223102976/problems/994805284092887040)  
-- [ ] | B1039                                                        |[ 到底买不买](https://pintia.cn/problem-sets/994805260223102976/problems/994805283241443328)/A1092[ To Buy or Not to Buy](https://pintia.cn/problem-sets/994805342720868352/problems/994805374509498368)         
+- [x] | B1039                                                        |[ 到底买不买](https://pintia.cn/problem-sets/994805260223102976/problems/994805283241443328)/A1092[ To Buy or Not to Buy](https://pintia.cn/problem-sets/994805342720868352/problems/994805374509498368)         
 - [x] | B1042                                                        | [ 字符统计](https://pintia.cn/problem-sets/994805260223102976/problems/994805280817135616)  
 - [x] | B1043                                                        | [输出PATest](https://pintia.cn/problem-sets/994805260223102976/problems/994805280074743808)  
 - [x] | B1047                                                        | [编程团体赛](https://pintia.cn/problem-sets/994805260223102976/problems/994805277163896832)  
@@ -160,7 +160,7 @@
 
 ### 6two  pointers（双指针）
 
-- [ ] | B1030/A1085                                                
+- [x] | B1030[完美数列](https://pintia.cn/problem-sets/994805260223102976/problems/994805291311284224)/A1085[Perfect Sequence](https://pintia.cn/problem-sets/994805342720868352/problems/994805381845336064)                                           
 - [ ] | B1035[ 插入与归并](https://pintia.cn/problem-sets/994805260223102976/problems/994805286714327040)/A1089[Insert or Merge](https://pintia.cn/problem-sets/994805342720868352/problems/994805377432928256) |              
 - [ ] | A1029                                                        | [ Median](https://pintia.cn/problem-sets/994805342720868352/problems/994805466364755968)  
 - [ ] | A1048                                                        | [Find Coins](https://pintia.cn/problem-sets/994805342720868352/problems/994805432256675840)  
