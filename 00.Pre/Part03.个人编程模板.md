@@ -19,6 +19,9 @@ res/result  结果
 INF / MAXN / N   很大的值
 odd   奇数 
 even  偶数
+exp  指数
+cof  系数
+poly 多项式
 ```
 
 

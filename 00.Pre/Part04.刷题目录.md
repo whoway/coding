@@ -36,7 +36,7 @@
 - [x] | A1065 | [A+B and C (64bit)](https://pintia.cn/problem-sets/994805342720868352/problems/994805406352654336)  | （很有用的技巧，判断64位的溢出）
 - [x] | B1010 | [一元多项式求导](https://pintia.cn/problem-sets/994805260223102976/problems/994805313708867584) 
 - [x] | A1002 | [A+B for Polynomials](https://pintia.cn/problem-sets/994805342720868352/problems/994805526272000000)  | 最常见编程技巧和注意事项：浮点数之间的比较
-- [ ] | A1009 | [Product of Polynomials](https://pintia.cn/problem-sets/994805342720868352/problems/994805509540921344) 
+- [x] | A1009 | [Product of Polynomials](https://pintia.cn/problem-sets/994805342720868352/problems/994805509540921344) 
 
 
 
