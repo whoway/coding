@@ -89,7 +89,7 @@
 - [x]  A1001                                                        | [ A+B Format](https://pintia.cn/problem-sets/994805342720868352/problems/994805528788582400)  
 - [x]  A1005                                                        | [ Spell It Right](https://pintia.cn/problem-sets/994805342720868352/problems/994805519074574336)        
 - [ ]  A1035                                                        | [Password](https://pintia.cn/problem-sets/994805342720868352/problems/994805454989803520)       
-- [ ]  A1077                                                        | [ Kuchiguse](https://pintia.cn/problem-sets/994805342720868352/problems/994805390896644096)      
+- [x]  A1077                                                        | [ Kuchiguse](https://pintia.cn/problem-sets/994805342720868352/problems/994805390896644096)      
 - [ ] A1082                                                        | [Read Number in Chinese](https://pintia.cn/problem-sets/994805342720868352/problems/994805385053978624)    
 
 
