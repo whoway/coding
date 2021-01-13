@@ -11,4 +11,4 @@
 [![stars](https://badgen.net/github/stars//HACV/Coding?icon=github&color=4ab8a1)](https://github.com/HACV/Coding) [![forks](https://badgen.net/github/forks//HACV/Coding?icon=github&color=4ab8a1)](https://github.com/HACV/Coding)
 
 [开始阅读](https://hacv.gitee.io/coding/#/)
-[GitHub](https://github.com/HACV)
+
