@@ -100,10 +100,12 @@
 
 ### 1排序
 
-- [ ] | B1015[ 德才论](https://pintia.cn/problem-sets/994805260223102976/problems/994805307551629312)/A1062[Talent and Virtue](https://pintia.cn/problem-sets/994805342720868352/problems/994805410555346944) 
+**『很好的训练，cmp函数、结构体设计的一组训练』**
+
+- [x] | B1015[ 德才论](https://pintia.cn/problem-sets/994805260223102976/problems/994805307551629312)/A1062[Talent and Virtue](https://pintia.cn/problem-sets/994805342720868352/problems/994805410555346944) 
 - [ ] | A1012                                                        | [The Best Rank](https://pintia.cn/problem-sets/994805342720868352/problems/994805502658068480) 
 - [ ] | A1016                                                        | [ Phone Bills](https://pintia.cn/problem-sets/994805342720868352/problems/994805493648703488)  
-- [ ] | A1025                                                        | [ PAT Ranking](https://pintia.cn/problem-sets/994805342720868352/problems/994805474338127872)  
+- [x] | A1025                                                        | [ PAT Ranking](https://pintia.cn/problem-sets/994805342720868352/problems/994805474338127872)  
 - [x] | A1028                                                        | [ List Sorting](https://pintia.cn/problem-sets/994805342720868352/problems/994805468327690240)  
 - [ ] | A1055                                                        | [ The World's Richest](https://pintia.cn/problem-sets/994805342720868352/problems/994805421066272768)  
 - [ ] | A1075                                                        | [ PAT Judge](https://pintia.cn/problem-sets/994805342720868352/problems/994805393241260032)  
