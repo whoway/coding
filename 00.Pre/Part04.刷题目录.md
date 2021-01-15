@@ -88,7 +88,7 @@
 - [x]  B1048                                                        | [ 数字加密](https://pintia.cn/problem-sets/994805260223102976/problems/994805276438282240)  
 - [x]  A1001                                                        | [ A+B Format](https://pintia.cn/problem-sets/994805342720868352/problems/994805528788582400)  
 - [x]  A1005                                                        | [ Spell It Right](https://pintia.cn/problem-sets/994805342720868352/problems/994805519074574336)        
-- [ ]  A1035                                                        | [Password](https://pintia.cn/problem-sets/994805342720868352/problems/994805454989803520)       
+- [x]  A1035                                                        | [Password](https://pintia.cn/problem-sets/994805342720868352/problems/994805454989803520)       
 - [x]  A1077                                                        | [ Kuchiguse](https://pintia.cn/problem-sets/994805342720868352/problems/994805390896644096)      
 - [ ] A1082                                                        | [Read Number in Chinese](https://pintia.cn/problem-sets/994805342720868352/problems/994805385053978624)    
 
@@ -125,7 +125,7 @@
 - [x] | B1043                                                        | [输出PATest](https://pintia.cn/problem-sets/994805260223102976/problems/994805280074743808)  
 - [x] | B1047                                                        | [编程团体赛](https://pintia.cn/problem-sets/994805260223102976/problems/994805277163896832)  
 - [x] | A1041                                                        | [ Be Unique](https://pintia.cn/problem-sets/994805342720868352/problems/994805444361437184)  
-- [ ] | A1050                                                        | [ String Subtraction](https://pintia.cn/problem-sets/994805342720868352/problems/994805429018673152)  
+- [x] | A1050                                                        | [ String Subtraction](https://pintia.cn/problem-sets/994805342720868352/problems/994805429018673152)  
 - [ ] | B1005                                                        | [继续(3n+1)猜想](https://pintia.cn/problem-sets/994805260223102976/problems/994805320306507776) 
 - [x] | A1048                                                        | [ Find Coins](https://pintia.cn/problem-sets/994805342720868352/problems/994805432256675840)  
 
