@@ -2,9 +2,8 @@
 
 
 
-- 基于『算法笔记』主体
-
-- 辅以笔者刷过的的**『牛客』**和**『北大百练』**进行分类训练。
+- 基于『算法笔记』和『算法基础与在线实践』
+- 辅以笔者刷过的的**『牛客』**、**『CSP』**、**『北大百练』**进行分类训练
 
 
 > | 标识符 | 意义     |
@@ -157,6 +156,8 @@
 - [ ] | A1010                                                        | [Radix](https://pintia.cn/problem-sets/994805342720868352/problems/994805507225665536)  
 - [ ] | A1044                                                        | [ Favorite Color Stripe](https://pintia.cn/problem-sets/994805342720868352/problems/994805437411475456)  
 - [x] | A1048                                                        | [ Find Coins](https://pintia.cn/problem-sets/994805342720868352/problems/994805432256675840)  （亦是散列）
+- [ ] |百练4140| [方程求解](http://bailian.openjudge.cn/practice/4140)
+- [ ] |百练2503Babelfish | [在线翻译](http://bailian.openjudge.cn/practice/2503)
 
 
 
@@ -178,12 +179,12 @@
 
 ## 三、数学问题
 
-### 1简单数学（不简单）
+### 1简单数学
 
-- [ ] | B1003                                                        | [我要通过！](https://pintia.cn/problem-sets/994805260223102976/problems/994805323154440192) |   
+- [ ] | B1003                                                        | [我要通过！](https://pintia.cn/problem-sets/994805260223102976/problems/994805323154440192) |    『考英语阅读理解的既视感:arrow_left:』
 - [x] | B1019[ 数字黑洞](https://pintia.cn/problem-sets/994805260223102976/problems/994805302786899968)/A1069[ The Black Hole of Numbers](https://pintia.cn/problem-sets/994805342720868352/problems/994805400954585088) |                                                          
 - [x] | B1049[ 数列的片段和](https://pintia.cn/problem-sets/994805260223102976/problems/994805275792359424)/A1104[Sum of Number Segments](https://pintia.cn/problem-sets/994805342720868352/problems/994805363914686464) |  『找规律好题』                                    
-- [ ] | A1008                                                        | [Elevator](https://pintia.cn/problem-sets/994805342720868352/problems/994805511923286016) |    
+- [x] | A1008                                                        | [Elevator](https://pintia.cn/problem-sets/994805342720868352/problems/994805511923286016) |    
 - [ ] | A1049                                                        | [Counting Ones](https://pintia.cn/problem-sets/994805342720868352/problems/994805430595731456) |    
 
 
@@ -241,63 +242,12 @@
 
 
 
-## 四、『STL』C++中精简代码
-
-### 1 vector常用用法
-
-- [ ] | A1039 | [Course List for Student](https://pintia.cn/problem-sets/994805342720868352/problems/994805447855292416) |  
-- [ ] | A1047 | [Student List for Course](https://pintia.cn/problem-sets/994805342720868352/problems/994805433955368960) |     
-
-
-
-### 2 set的常用用法
-
-- [ ] | A1063 | [ Set Similarity](https://pintia.cn/problem-sets/994805342720868352/problems/994805409175420928) |      
-
-
-
-### 3string的常用用法
-
-- [ ] | A1060 | [Are They Equal](https://pintia.cn/problem-sets/994805342720868352/problems/994805413520719872) |      
-
-
-
-### 4map的常用用法
-
-- [x] | B1044[ 火星数字](https://pintia.cn/problem-sets/994805260223102976/problems/994805279328157696)/A1100[ Mars Numbers](https://pintia.cn/problem-sets/994805342720868352/problems/994805367156883456) |                                                          
-- [x] | A1054                                                        | [ The Dominant Color](https://pintia.cn/problem-sets/994805342720868352/problems/994805422639136768) |  
-- [ ] | A1071                                                        | [ Speech Patterns](https://pintia.cn/problem-sets/994805342720868352/problems/994805398257647616) |      
-- [ ] | A1022                                                        | [ Digital Library](https://pintia.cn/problem-sets/994805342720868352/problems/994805480801550336) |      
-
-
-
-### 5 queue的常用用法
-
-- 无
-
-### 6priority_queue的常见用法
-
-- 无
-
-
-
-### 7stack的常见用法
-
-- 无
-
-### 8pair的常见用法
-
-- 无
-
-### 9algorithm下的常用函数
-
-- 无
 
 
 
 
 
-## 五、数据结构之链表、栈、队列
+## 四、数据结构之链表、栈、队列
 
 ### 1栈
 
@@ -320,7 +270,7 @@
 
 
 
-## 六、算法之搜索
+## 五、算法之搜索
 
 ### 1DFS
 
@@ -334,7 +284,7 @@
 
 
 
-## 七、数据结构之树
+## 六、数据结构之树
 
 - 树和二叉树
 
@@ -387,7 +337,7 @@
 
 
 
-## 八、图论
+## 七、图论
 
 - 图的定义和相关术语
 - 图的存储
@@ -425,7 +375,7 @@
 
 
 
-## 九、动态规划
+## 八、动态规划
 
 - 动态规划的递归和递推写法（准确说是迭代）
 
@@ -439,7 +389,7 @@
 
 
 
-## 十、高级字符串算法
+## 九、高级字符串算法
 
 - 字符串hash   A1040[Longest Symmetric String](https://pintia.cn/problem-sets/994805342720868352/problems/994805446102073344)
 - KMP算法
@@ -448,7 +398,7 @@
 
 
 
-## T、其他高级数据结构（ACM类）
+## 十、其他高级数据结构（ACM类）
 
 
 - 分块思想/树状数组：
