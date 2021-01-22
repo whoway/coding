@@ -36,10 +36,38 @@
 - [x] | B1010 | [一元多项式求导](https://pintia.cn/problem-sets/994805260223102976/problems/994805313708867584) 
 - [x] | A1002 | [A+B for Polynomials](https://pintia.cn/problem-sets/994805342720868352/problems/994805526272000000)  | 最常见编程技巧和注意事项：浮点数之间的比较
 - [x] | A1009 | [Product of Polynomials](https://pintia.cn/problem-sets/994805342720868352/problems/994805509540921344) 
+- [x] 百练3237:[鸡兔同笼](http://bailian.openjudge.cn/practice/3237/)
+- [x] 百练2808:[校门外的树](http://bailian.openjudge.cn/practice/2808/)
+- [ ] 百练1017:[装箱问题](http://bailian.openjudge.cn/practice/1017)『』
+- [x] 百练2746:[约瑟夫问题](http://bailian.openjudge.cn/practice/2746/)『低配版』
+- [ ] 百练2745:[显示器](http://bailian.openjudge.cn/practice/2745)
+- [ ] 百练1833:[排列](http://bailian.openjudge.cn/practice/1833)
+- [ ] 百练2701:[与7无关的数](http://bailian.openjudge.cn/practice/2701)
+- [ ] 百练2712:[细菌繁殖](http://bailian.openjudge.cn/practice/2712)
+- [ ] 百练2733:[判断闰年](http://bailian.openjudge.cn/practice/2733)
+- [ ] 百练2707:[求一元二次方程的根](http://bailian.openjudge.cn/practice/2707)
+- [ ] 百练2711:[合唱队形](http://bailian.openjudge.cn/practice/2711)
 
 
 
-### 2查找元素
+### 2枚举
+
+- [ ] 百练2692:[假币问题](http://bailian.openjudge.cn/practice/2692)
+- [ ] 百练4148:[生理周期](http://bailian.openjudge.cn/practice/4148)
+- [ ] 百练2810:[完美立方](http://bailian.openjudge.cn/practice/2810)
+- [ ] 百练2811:[熄灯问题](http://bailian.openjudge.cn/practice/2811)
+- [ ] 百练2812:[恼人（讨厌）的青蛙](http://bailian.openjudge.cn/practice/2812)
+- [ ] 百练4146:[数字方格](http://bailian.openjudge.cn/practice/4146)（数字三元组）
+- [ ] 百练4138:[质数的和与积](http://bailian.openjudge.cn/practice/4138)
+- [ ] 百练4139:[不定方程求解](http://bailian.openjudge.cn/practice/4139)
+- [ ] 百练4141:[砝码称重](http://bailian.openjudge.cn/practice/4141)
+- [ ] 百练4133:[垃圾炸弹](http://bailian.openjudge.cn/practice/4133)
+
+
+
+
+
+### 3查找元素
 
 - [x] | B1041 | [考试座位号](https://pintia.cn/problem-sets/994805260223102976/problems/994805281567916032) 
 - [x] | B1004 | [ 成绩排名](https://pintia.cn/problem-sets/994805260223102976/problems/994805321640296448) 
@@ -51,7 +79,7 @@
 
 
 
-### 3图形输出
+### 4图形输出
 
 - [x] |B1036 | [ 跟奥巴马一起编程](https://pintia.cn/problem-sets/994805260223102976/problems/994805285812551680) 
 - [x] | B1027 | [ 打印沙漏](https://pintia.cn/problem-sets/994805260223102976/problems/994805294251491328) 
@@ -59,13 +87,13 @@
 
 
 
-### 4日期处理
+### 5日期处理
 
 - 无
 
 
 
-### 5进制转换
+### 6进制转换
 
 - [x] | B1022 | [D进制的A+B](https://pintia.cn/problem-sets/994805260223102976/problems/994805299301433344) 
 - [x] | B1037 | [在霍格沃茨找零钱](https://pintia.cn/problem-sets/994805260223102976/problems/994805284923359232) 
@@ -75,7 +103,7 @@
 
 
 
-### 6字符串处理
+### 7字符串处理
 
 - [x]  B1006                                                        | [换个格式输出整数](https://pintia.cn/problem-sets/994805260223102976/problems/994805318855278592)  
 - [x]  B1021                                                        | [个位数统计](https://pintia.cn/problem-sets/994805260223102976/problems/994805300404535296)  
@@ -135,6 +163,19 @@
 - 编程技巧-不算算法
 - 体验这种编程技巧，最好的方式，刷数据结构之『树』
 
+- [ ] 百练2802:[小游戏](http://bailian.openjudge.cn/practice/2802)
+- [ ] 百练1191:[棋盘分割](http://bailian.openjudge.cn/practice/1191)
+- [ ] 百练2754:[八皇后](http://bailian.openjudge.cn/practice/2754)
+- [ ] 百练2775:[文件结构“图”](http://bailian.openjudge.cn/practice/2775)
+- [ ] 百练2787:[算24](http://bailian.openjudge.cn/practice/2787)
+- [ ] 百练2753:[菲波那契数列](http://bailian.openjudge.cn/practice/2753)
+- [ ] 百练3248:[最大公约数](http://bailian.openjudge.cn/practice/3248)
+- [ ] 百练2749:[分解因数](http://bailian.openjudge.cn/practice/2749)
+- [ ] 百练2694:[逆波兰表达式](http://bailian.openjudge.cn/practice/2694)
+- [ ] 百练3704:[扩号匹配问题](http://bailian.openjudge.cn/practice/3704)
+
+
+
 
 
 ### 4贪心
@@ -145,12 +186,25 @@
 - [ ] | A1037                                                        | [Magic Coupon](https://pintia.cn/problem-sets/994805342720868352/problems/994805451374313472)  
 - [ ] | A1067                                                        | [ Sort with Swap(0, i)](https://pintia.cn/problem-sets/994805342720868352/problems/994805403651522560)  
 - [ ] | A1038                                                        | [ Recover the Smallest Number](https://pintia.cn/problem-sets/994805342720868352/problems/994805449625288704)   
+- [ ] 百练4110:[圣诞老人的礼物](http://bailian.openjudge.cn/practice/4110)-Santa Clau’s Gifts
+- [ ] 百练3468:[电池的寿命](http://bailian.openjudge.cn/practice/3468)
+- [ ] 百练1328:Radar Installation（[建立雷达](http://bailian.openjudge.cn/practice/1328)）
+- [ ] 百练2287:Tian Ji -- The Horse Racing（[田忌赛马](http://bailian.openjudge.cn/practice/2287)）
+- [ ] 百练1042:Gone Fishing（[钓鱼](http://bailian.openjudge.cn/practice/1042)）
+- [ ] 百练4144:[畜栏保留问题](http://bailian.openjudge.cn/practice/4144)
+- [ ] 百练2795:[金银岛](http://bailian.openjudge.cn/practice/2795)
+- [ ] 百练2797:[最短前缀](http://bailian.openjudge.cn/practice/2797)
+- [ ] 百练3406:[书架](http://bailian.openjudge.cn/practice/3406)
+- [ ] 百练4137:[最小新整数](http://bailian.openjudge.cn/practice/4137)
+- [ ] 百练4005:[拼点游戏](http://bailian.openjudge.cn/practice/4005)
+
+
+
+
 
 
 
 ### 5二分
-
-
 
 - [x] | B1030[ 完美数列](https://pintia.cn/problem-sets/994805260223102976/problems/994805291311284224)/A1085[Perfect Sequence](https://pintia.cn/problem-sets/994805342720868352/problems/994805381845336064)  
 - [ ] | A1010                                                        | [Radix](https://pintia.cn/problem-sets/994805342720868352/problems/994805507225665536)  
@@ -158,6 +212,19 @@
 - [x] | A1048                                                        | [ Find Coins](https://pintia.cn/problem-sets/994805342720868352/problems/994805432256675840)  （亦是散列）
 - [ ] |百练4140| [方程求解](http://bailian.openjudge.cn/practice/4140)
 - [ ] |百练2503Babelfish | [在线翻译](http://bailian.openjudge.cn/practice/2503)
+- [ ] 百练3441:4 Values whose Sum is 0（[快速找到和为0的4个数](http://bailian.openjudge.cn/practice/3441)）
+- [ ] 百练2456:Aggressive cows（[疯牛](http://bailian.openjudge.cn/practice/2456)）
+- [ ] 百练1905:Expanding Rods（[弯曲的木杆](http://bailian.openjudge.cn/practice/1905)）
+- [ ] 百练4145:[放弃考试](http://bailian.openjudge.cn/practice/4145)
+- [ ] 百练4134:[查找最接近的元素](http://bailian.openjudge.cn/practice/4134)
+- [ ] 百练4142:[二分法求函数的零点](http://bailian.openjudge.cn/practice/4142)
+- [ ] 百练4143:[和为给定数](http://bailian.openjudge.cn/practice/4143)
+- [ ] 百练4135:[月度开销](http://bailian.openjudge.cn/practice/4135)
+- [ ] 百练4136:[矩形分割](http://bailian.openjudge.cn/practice/4136)
+
+
+
+
 
 
 
@@ -275,12 +342,35 @@
 ### 1DFS
 
 - [ ] | A1103 | [ Integer Factorization](https://pintia.cn/problem-sets/994805342720868352/problems/994805364711604224)
+- [ ] 百练2815:[城堡问题](http://bailian.openjudge.cn/practice/2815)
+- [ ] 百练1724:[ROADS](http://bailian.openjudge.cn/practice/1724)
+- [ ] 百练1190:[生日蛋糕](http://bailian.openjudge.cn/practice/1190)
+- [ ] 百练1011:[Sticks](http://bailian.openjudge.cn/practice/1011)
+- [ ] 百练4103:[踩方格](http://bailian.openjudge.cn/practice/4103)
+- [ ] 百练1321:[棋盘问题](http://bailian.openjudge.cn/practice/1321)
+- [ ] 百练4123:[马走日](http://bailian.openjudge.cn/practice/4123)
+- [ ] 百练4124:[海贼王之伟大航路](http://bailian.openjudge.cn/practice/4124)
+- [ ] 百练4126:[DNA](http://bailian.openjudge.cn/practice/4126)
+
+
 
 
 
 ### 2BFS
 
 - [ ] | A1091 | [ Acute Stroke](https://pintia.cn/problem-sets/994805342720868352/problems/994805375457411072)
+- [ ] 百练4001:[抓住那头牛](http://bailian.openjudge.cn/practice/4001)
+- [ ] 百练4116:[拯救行动](http://bailian.openjudge.cn/practice/4116)
+- [ ] 百练4115:[鸣人和佐助](http://bailian.openjudge.cn/practice/4115)
+- [ ] 百练1077:Eight（[八数码](http://bailian.openjudge.cn/practice/1077)）
+- [ ] 百练4127:[迷宫问题](http://bailian.openjudge.cn/practice/4127)
+- [ ] 百练4128:[单词序列](http://bailian.openjudge.cn/practice/4128)
+- [ ] 百练4129:[变换的迷宫](http://bailian.openjudge.cn/practice/4129)
+- [ ] 百练1753:[Flip Game](http://bailian.openjudge.cn/practice/1753)
+- [ ] 百练4130:[Saving Tang Monk](http://bailian.openjudge.cn/practice/4130)
+- [ ] 百练1729:[Jack and Jill](http://bailian.openjudge.cn/practice/1729)
+
+
 
 
 
@@ -385,6 +475,23 @@
 - 最长回文子串A1040[ Longest Symmetric String](https://pintia.cn/problem-sets/994805342720868352/problems/994805446102073344)
 - DAG最长路
 - 背包问题A1068[ Find More Coins](https://pintia.cn/problem-sets/994805342720868352/problems/994805402305150976)
+
+- [ ] 百练2533:Longest Ordered Subsequence（[最长上升子序列](http://bailian.openjudge.cn/practice/2533)）
+- [ ] 百练1458:Common Subsequence（[最长公共子序列](http://bailian.openjudge.cn/practice/1458)）
+- [ ] 百练4131:[Charm Bracelet](http://bailian.openjudge.cn/practice/4131)
+- [ ] 百练1088:[滑雪](http://bailian.openjudge.cn/practice/1088)
+- [ ] 百练2373:Dividing the Path（[灌溉草场](http://bailian.openjudge.cn/practice/2373)）
+- [ ] 百练1390:Blocks（[方盒游戏](http://bailian.openjudge.cn/practice/1390)）
+- [ ] 百练1037:A decorative fence（[美妙珊栏](http://bailian.openjudge.cn/practice/1037)）
+- [ ] 百练4117:[简单的整数划分问题](http://bailian.openjudge.cn/practice/4117)
+- [ ] 百练4118:[开餐馆](http://bailian.openjudge.cn/practice/4118)
+- [ ] 百练4119:[复杂的整数划分问题](http://bailian.openjudge.cn/practice/4119)
+- [ ] 百练4120:[硬币](http://bailian.openjudge.cn/practice/4120)
+- [ ] 百练4102:[宠物小精灵之收服](http://bailian.openjudge.cn/practice/4102)
+- [ ] 百练4121:[股票买卖](http://bailian.openjudge.cn/practice/4121)
+- [ ] 百练4122:[切割回文](http://bailian.openjudge.cn/practice/4122)
+
+
 
 
 
