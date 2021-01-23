@@ -42,9 +42,9 @@
 - [x] 百练2746:[约瑟夫问题](http://bailian.openjudge.cn/practice/2746/)『低配版』
 - [ ] 百练2745:[显示器](http://bailian.openjudge.cn/practice/2745)
 - [ ] 百练1833:[排列](http://bailian.openjudge.cn/practice/1833)
-- [ ] 百练2701:[与7无关的数](http://bailian.openjudge.cn/practice/2701)
-- [ ] 百练2712:[细菌繁殖](http://bailian.openjudge.cn/practice/2712)
-- [ ] 百练2733:[判断闰年](http://bailian.openjudge.cn/practice/2733)
+- [x] 百练2701:[与7无关的数](http://bailian.openjudge.cn/practice/2701)
+- [x] 百练2712:[细菌繁殖](http://bailian.openjudge.cn/practice/2712)
+- [x] 百练2733:[判断闰年](http://bailian.openjudge.cn/practice/2733)
 - [ ] 百练2707:[求一元二次方程的根](http://bailian.openjudge.cn/practice/2707)
 - [ ] 百练2711:[合唱队形](http://bailian.openjudge.cn/practice/2711)
 
@@ -57,8 +57,8 @@
 - [ ] 百练2810:[完美立方](http://bailian.openjudge.cn/practice/2810)
 - [ ] 百练2811:[熄灯问题](http://bailian.openjudge.cn/practice/2811)
 - [ ] 百练2812:[恼人（讨厌）的青蛙](http://bailian.openjudge.cn/practice/2812)
-- [ ] 百练4146:[数字方格](http://bailian.openjudge.cn/practice/4146)（数字三元组）
-- [ ] 百练4138:[质数的和与积](http://bailian.openjudge.cn/practice/4138)
+- [x] 百练4146:[数字方格](http://bailian.openjudge.cn/practice/4146)（数字三元组）
+- [x] 百练4138:[质数的和与积](http://bailian.openjudge.cn/practice/4138)
 - [ ] 百练4139:[不定方程求解](http://bailian.openjudge.cn/practice/4139)
 - [ ] 百练4141:[砝码称重](http://bailian.openjudge.cn/practice/4141)
 - [ ] 百练4133:[垃圾炸弹](http://bailian.openjudge.cn/practice/4133)
