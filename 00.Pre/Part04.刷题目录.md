@@ -41,7 +41,7 @@
 - [ ] 百练1017:[装箱问题](http://bailian.openjudge.cn/practice/1017)『』
 - [x] 百练2746:[约瑟夫问题](http://bailian.openjudge.cn/practice/2746/)『低配版』
 - [ ] 百练2745:[显示器](http://bailian.openjudge.cn/practice/2745)
-- [ ] 百练1833:[排列](http://bailian.openjudge.cn/practice/1833)
+- [x] 百练1833:[排列](http://bailian.openjudge.cn/practice/1833)
 - [x] 百练2701:[与7无关的数](http://bailian.openjudge.cn/practice/2701)
 - [x] 百练2712:[细菌繁殖](http://bailian.openjudge.cn/practice/2712)
 - [x] 百练2733:[判断闰年](http://bailian.openjudge.cn/practice/2733)
@@ -162,6 +162,8 @@
 
 - 编程技巧-不算算法
 - 体验这种编程技巧，最好的方式，刷数据结构之『树』
+
+
 
 - [ ] 百练2802:[小游戏](http://bailian.openjudge.cn/practice/2802)
 - [ ] 百练1191:[棋盘分割](http://bailian.openjudge.cn/practice/1191)
