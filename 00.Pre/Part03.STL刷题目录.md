@@ -7,7 +7,7 @@
 ## 1 vector常用用法
 
 - [ ] | A1039 | [Course List for Student](https://pintia.cn/problem-sets/994805342720868352/problems/994805447855292416) |  
-- [ ] | A1047 | [Student List for Course](https://pintia.cn/problem-sets/994805342720868352/problems/994805433955368960) |     
+- [x] | A1047 | [Student List for Course](https://pintia.cn/problem-sets/994805342720868352/problems/994805433955368960) |     
 
 
 
