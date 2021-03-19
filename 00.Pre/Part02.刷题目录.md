@@ -382,8 +382,8 @@
 
 ### 二叉树的遍历
 
-- [ ] | A1020 | [ Tree Traversals](https://pintia.cn/problem-sets/994805342720868352/problems/994805485033603072) 
-- [ ] | A1086 | [Tree Traversals Again](https://pintia.cn/problem-sets/994805342720868352/problems/994805380754817024) 
+- [x] | A1020 | [ Tree Traversals](https://pintia.cn/problem-sets/994805342720868352/problems/994805485033603072) 『中序+后序』
+- [ ] | A1086 | [Tree Traversals Again](https://pintia.cn/problem-sets/994805342720868352/problems/994805380754817024) 『中序+前序』
 - [ ] | A1102 | [ Invert a Binary Tree](https://pintia.cn/problem-sets/994805342720868352/problems/994805365537882112)
 
 
