@@ -13,7 +13,7 @@
 
 ## 2 set的常用用法
 
-- [ ] | A1063 | [ Set Similarity](https://pintia.cn/problem-sets/994805342720868352/problems/994805409175420928) |      
+- [x] | A1063 | [ Set Similarity](https://pintia.cn/problem-sets/994805342720868352/problems/994805409175420928) |      
 
 
 
