@@ -188,7 +188,7 @@
 - [ ] | A1037                                                        | [Magic Coupon](https://pintia.cn/problem-sets/994805342720868352/problems/994805451374313472)  
 - [ ] | A1067                                                        | [ Sort with Swap(0, i)](https://pintia.cn/problem-sets/994805342720868352/problems/994805403651522560)  
 - [ ] | A1038                                                        | [ Recover the Smallest Number](https://pintia.cn/problem-sets/994805342720868352/problems/994805449625288704)   
-- [ ] 百练4110:[圣诞老人的礼物](http://bailian.openjudge.cn/practice/4110)-Santa Clau’s Gifts
+- [x] 百练4110:[圣诞老人的礼物](http://bailian.openjudge.cn/practice/4110)-Santa Clau’s Gifts
 - [ ] 百练3468:[电池的寿命](http://bailian.openjudge.cn/practice/3468)
 - [ ] 百练1328:Radar Installation（[建立雷达](http://bailian.openjudge.cn/practice/1328)）
 - [ ] 百练2287:Tian Ji -- The Horse Racing（[田忌赛马](http://bailian.openjudge.cn/practice/2287)）
