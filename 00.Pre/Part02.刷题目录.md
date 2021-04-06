@@ -196,9 +196,9 @@
 - [ ] 百练4144:[畜栏保留问题](http://bailian.openjudge.cn/practice/4144)
 - [ ] 百练2795:[金银岛](http://bailian.openjudge.cn/practice/2795)
 - [ ] 百练2797:[最短前缀](http://bailian.openjudge.cn/practice/2797)
-- [ ] 百练3406:[书架](http://bailian.openjudge.cn/practice/3406)
-- [ ] 百练4137:[最小新整数](http://bailian.openjudge.cn/practice/4137)
-- [ ] 百练4005:[拼点游戏](http://bailian.openjudge.cn/practice/4005)
+- [x] 百练3406:[书架](http://bailian.openjudge.cn/practice/3406)
+- [ ] 百练4137:[最小新整数](http://bailian.openjudge.cn/practice/4137)『未』
+- [ ] 百练4005:[拼点游戏](http://bailian.openjudge.cn/practice/4005)『未』
 
 
 
