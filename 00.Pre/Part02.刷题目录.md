@@ -52,15 +52,15 @@
 
 ### 2枚举
 
-- [ ] 百练2692:[假币问题](http://bailian.openjudge.cn/practice/2692)
-- [ ] 百练4148:[生理周期](http://bailian.openjudge.cn/practice/4148)
+- [x] 百练2692:[假币问题](http://bailian.openjudge.cn/practice/2692)
+- [x] 百练4148:[生理周期](http://bailian.openjudge.cn/practice/4148)
 - [ ] 百练2810:[完美立方](http://bailian.openjudge.cn/practice/2810)
 - [ ] 百练2811:[熄灯问题](http://bailian.openjudge.cn/practice/2811)
 - [ ] 百练2812:[恼人（讨厌）的青蛙](http://bailian.openjudge.cn/practice/2812)
 - [x] 百练4146:[数字方格](http://bailian.openjudge.cn/practice/4146)（数字三元组）
 - [x] 百练4138:[质数的和与积](http://bailian.openjudge.cn/practice/4138)
 - [x] 百练4139:[不定方程求解](http://bailian.openjudge.cn/practice/4139)
-- [ ] 百练4141:[砝码称重](http://bailian.openjudge.cn/practice/4141)
+- [x] 百练4141:[砝码称重](http://bailian.openjudge.cn/practice/4141)
 - [ ] 百练4133:[垃圾炸弹](http://bailian.openjudge.cn/practice/4133)
 
 
