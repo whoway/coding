@@ -45,8 +45,8 @@
 - [x] 百练2701:[与7无关的数](http://bailian.openjudge.cn/practice/2701)
 - [x] 百练2712:[细菌繁殖](http://bailian.openjudge.cn/practice/2712)
 - [x] 百练2733:[判断闰年](http://bailian.openjudge.cn/practice/2733)
-- [ ] 百练2707:[求一元二次方程的根](http://bailian.openjudge.cn/practice/2707)
-- [ ] 百练2711:[合唱队形](http://bailian.openjudge.cn/practice/2711)
+- [x] 百练2707:[求一元二次方程的根](http://bailian.openjudge.cn/practice/2707)『精度很坑』
+- [ ] 百练2711:[合唱队形](http://bailian.openjudge.cn/practice/2711)『动态规划题-牛客[题解](https://www.nowcoder.com/questionTerminal/cf209ca9ac994015b8caf5bf2cae5c98)』
 
 
 
@@ -212,8 +212,8 @@
 - [ ] | A1010                                                        | [Radix](https://pintia.cn/problem-sets/994805342720868352/problems/994805507225665536)  
 - [ ] | A1044                                                        | [ Favorite Color Stripe](https://pintia.cn/problem-sets/994805342720868352/problems/994805437411475456)  
 - [x] | A1048                                                        | [ Find Coins](https://pintia.cn/problem-sets/994805342720868352/problems/994805432256675840)  （亦是散列）
-- [ ] |百练4140| [方程求解](http://bailian.openjudge.cn/practice/4140)
-- [ ] |百练2503Babelfish | [在线翻译](http://bailian.openjudge.cn/practice/2503)
+- [x] 百练4140： [方程求解](http://bailian.openjudge.cn/practice/4140)
+- [ ] 百练2503Babelfish ： [在线翻译](http://bailian.openjudge.cn/practice/2503)
 - [ ] 百练3441:4 Values whose Sum is 0（[快速找到和为0的4个数](http://bailian.openjudge.cn/practice/3441)）
 - [ ] 百练2456:Aggressive cows（[疯牛](http://bailian.openjudge.cn/practice/2456)）
 - [ ] 百练1905:Expanding Rods（[弯曲的木杆](http://bailian.openjudge.cn/practice/1905)）
