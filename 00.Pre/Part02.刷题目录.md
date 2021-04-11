@@ -470,13 +470,14 @@
 ## 八、动态规划
 
 - 动态规划的递归和递推写法（准确说是迭代）
-
 - 最大连续子序列和A1007[ Maximum Subsequence Sum](https://pintia.cn/problem-sets/994805342720868352/problems/994805514284679168)
 - 最长不下降子序列（LIS）A1045[Favorite Color Stripe](https://pintia.cn/problem-sets/994805342720868352/problems/994805437411475456)
 - 最长公共子序列（LCS）A1045[Favorite Color Stripe](https://pintia.cn/problem-sets/994805342720868352/problems/994805437411475456)
 - 最长回文子串A1040[ Longest Symmetric String](https://pintia.cn/problem-sets/994805342720868352/problems/994805446102073344)
 - DAG最长路
 - 背包问题A1068[ Find More Coins](https://pintia.cn/problem-sets/994805342720868352/problems/994805402305150976)
+
+
 
 - [ ] 百练2533:Longest Ordered Subsequence（[最长上升子序列](http://bailian.openjudge.cn/practice/2533)）
 - [ ] 百练1458:Common Subsequence（[最长公共子序列](http://bailian.openjudge.cn/practice/1458)）
