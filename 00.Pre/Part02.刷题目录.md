@@ -145,7 +145,7 @@
 ### 2散列（哈希）
 
 - [x] | B1029[旧键盘](https://pintia.cn/problem-sets/994805260223102976/problems/994805292322111488)/1084[Broken Keyboard](https://pintia.cn/problem-sets/994805342720868352/problems/994805382902300672) |                                                    
-- [ ] | B1033                                                        | [ 旧键盘打字](https://pintia.cn/problem-sets/994805260223102976/problems/994805288530460672) 
+- [x] | B1033                                                        | [ 旧键盘打字](https://pintia.cn/problem-sets/994805260223102976/problems/994805288530460672) 
 - [x] | B1038                                                        | [ 统计同成绩学生](https://pintia.cn/problem-sets/994805260223102976/problems/994805284092887040)  
 - [x] | B1039                                                        |[ 到底买不买](https://pintia.cn/problem-sets/994805260223102976/problems/994805283241443328)/A1092[ To Buy or Not to Buy](https://pintia.cn/problem-sets/994805342720868352/problems/994805374509498368)         
 - [x] | B1042                                                        | [ 字符统计](https://pintia.cn/problem-sets/994805260223102976/problems/994805280817135616)  
@@ -153,7 +153,7 @@
 - [x] | B1047                                                        | [编程团体赛](https://pintia.cn/problem-sets/994805260223102976/problems/994805277163896832)  
 - [x] | A1041                                                        | [ Be Unique](https://pintia.cn/problem-sets/994805342720868352/problems/994805444361437184)  
 - [x] | A1050                                                        | [ String Subtraction](https://pintia.cn/problem-sets/994805342720868352/problems/994805429018673152)  
-- [ ] | B1005                                                        | [继续(3n+1)猜想](https://pintia.cn/problem-sets/994805260223102976/problems/994805320306507776) 
+- [x] | B1005                                                        | [继续(3n+1)猜想](https://pintia.cn/problem-sets/994805260223102976/problems/994805320306507776) 
 - [x] | A1048                                                        | [ Find Coins](https://pintia.cn/problem-sets/994805342720868352/problems/994805432256675840)  
 
 
