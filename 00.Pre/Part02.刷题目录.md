@@ -46,7 +46,7 @@
 - [x] 百练2712:[细菌繁殖](http://bailian.openjudge.cn/practice/2712)
 - [x] 百练2733:[判断闰年](http://bailian.openjudge.cn/practice/2733)
 - [x] 百练2707:[求一元二次方程的根](http://bailian.openjudge.cn/practice/2707)『精度很坑』
-- [ ] 百练2711:[合唱队形](http://bailian.openjudge.cn/practice/2711)『动态规划题-牛客[题解](https://www.nowcoder.com/questionTerminal/cf209ca9ac994015b8caf5bf2cae5c98)』
+- [x] 百练2711:[合唱队形](http://bailian.openjudge.cn/practice/2711)『动态规划题-牛客[题解](https://www.nowcoder.com/questionTerminal/cf209ca9ac994015b8caf5bf2cae5c98)』
 
 
 

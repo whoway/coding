@@ -31,15 +31,15 @@
 
 
 
-## [01.腾讯](03.NowCoder/01.腾讯/README.md)
+## [01.腾讯](03.NowCoder/01.腾讯.md)
 ## [02.字节](03.NowCoder/02.字节/README.md)
 ## [03.百度](03.NowCoder/03.百度/README.md)
 
 ## [04.阿里](03.NowCoder/04.阿里/README.md)
 
-## [05.华为](03.NowCoder/05.华为/README.md)
+## [05.华为](03.NowCoder/05.华为.md)
 
-## [06.美团](03.NowCoder/06.美团/README.md)
+## [06.美团](03.NowCoder/06.美团.md)
 
 ## [07.京东](03.NowCoder/07.京东/README.md)
 

@@ -29,8 +29,7 @@ Vim编辑器中设置了三种模式一命令模式、末行模式和编辑模�
 >- 输人模式:正常的文本录入。
 >- 末行模式:保存或退出文档，以及设置**编辑环境**。
 
-
-<img src="https://gitee.com/HACV/images_bed/raw/master/MainBlog/2020/2020_06/2020_06_22_Vim_01.png" width="80%">
+<img src="https://cdn.jsdelivr.net/gh/HACV/picture/img/2020_06_22_Vim_01.png" width="80%">
 
 说明：
 `vim 文件名` 则进入了vim的命令模式  
@@ -215,9 +214,7 @@ echo 文件创建完毕
 
 
 
-#### Part00.刷题建议
-
-
+#### 刷题建议
 
 - 先学知识点，再刷对应的题目：『专题训练』
 - 对一个章节进行集中训练，不要为了做题而做题！
