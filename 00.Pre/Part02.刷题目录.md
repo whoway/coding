@@ -38,7 +38,7 @@
 - [x] | A1009 | [Product of Polynomials](https://pintia.cn/problem-sets/994805342720868352/problems/994805509540921344) 
 - [x] 百练3237:[鸡兔同笼](http://bailian.openjudge.cn/practice/3237/)
 - [x] 百练2808:[校门外的树](http://bailian.openjudge.cn/practice/2808/)
-- [ ] 百练1017:[装箱问题](http://bailian.openjudge.cn/practice/1017)『』
+- [x] 百练1017:[装箱问题](http://bailian.openjudge.cn/practice/1017)『需思路清晰」😲
 - [x] 百练2746:[约瑟夫问题](http://bailian.openjudge.cn/practice/2746/)『低配版』
 - [ ] 百练2745:[显示器](http://bailian.openjudge.cn/practice/2745)
 - [x] 百练1833:[排列](http://bailian.openjudge.cn/practice/1833)
@@ -54,7 +54,7 @@
 
 - [x] 百练2692:[假币问题](http://bailian.openjudge.cn/practice/2692)
 - [x] 百练4148:[生理周期](http://bailian.openjudge.cn/practice/4148)
-- [ ] 百练2810:[完美立方](http://bailian.openjudge.cn/practice/2810)
+- [x] 百练2810:[完美立方](http://bailian.openjudge.cn/practice/2810)
 - [ ] 百练2811:[熄灯问题](http://bailian.openjudge.cn/practice/2811)
 - [ ] 百练2812:[恼人（讨厌）的青蛙](http://bailian.openjudge.cn/practice/2812)
 - [x] 百练4146:[数字方格](http://bailian.openjudge.cn/practice/4146)（数字三元组）
