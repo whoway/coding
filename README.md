@@ -1,4 +1,4 @@
-![logo](https://gitee.com/HACV/command/raw/master/_style/logo.png)
+
 
 ## [Coding仓库](https://hacv.gitee.io/coding/#/)
 
