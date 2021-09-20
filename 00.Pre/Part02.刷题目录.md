@@ -18,7 +18,7 @@
 >
 > - [x] 表示已更新
 
-## 一、入门模拟（模拟）
+## 01.入门模拟（模拟）
 
 ### 1简单模拟
 
@@ -121,7 +121,7 @@
 
 
 
-## 二、算法初步（常用简单算法）
+## 02.算法初步（常用简单算法）
 
 
 
@@ -213,8 +213,8 @@
 - [ ] | A1044                                                        | [ Favorite Color Stripe](https://pintia.cn/problem-sets/994805342720868352/problems/994805437411475456)  
 - [x] | A1048                                                        | [ Find Coins](https://pintia.cn/problem-sets/994805342720868352/problems/994805432256675840)  （亦是散列）
 - [x] 百练4140： [方程求解](http://bailian.openjudge.cn/practice/4140)
-- [ ] 百练2503Babelfish ： [在线翻译](http://bailian.openjudge.cn/practice/2503)
-- [ ] 百练3441:4 Values whose Sum is 0（[快速找到和为0的4个数](http://bailian.openjudge.cn/practice/3441)）
+- [x] 百练2503：Babelfish ： [在线翻译](http://bailian.openjudge.cn/practice/2503)「学习输入和输出技巧」
+- [x] 百练3441:4 Values whose Sum is 0（[快速找到和为0的4个数](http://bailian.openjudge.cn/practice/3441)）
 - [ ] 百练2456:Aggressive cows（[疯牛](http://bailian.openjudge.cn/practice/2456)）
 - [ ] 百练1905:Expanding Rods（[弯曲的木杆](http://bailian.openjudge.cn/practice/1905)）
 - [ ] 百练4145:[放弃考试](http://bailian.openjudge.cn/practice/4145)
@@ -246,7 +246,7 @@
 
 
 
-## 三、数学问题
+## 03.数学问题
 
 ### 1简单数学
 
@@ -316,7 +316,7 @@
 
 
 
-## 四、数据结构之链表、栈、队列
+## 04.数据结构之链表、栈、队列
 
 ### 1栈
 
@@ -339,7 +339,7 @@
 
 
 
-## 五、算法之搜索
+## 05.算法之搜索
 
 ### 1DFS
 
@@ -376,7 +376,7 @@
 
 
 
-## 六、数据结构之树
+## 06.数据结构之树
 
 - 树和二叉树
 
@@ -429,14 +429,12 @@
 
 
 
-## 七、图论
+## 07.图论
 
 - 图的定义和相关术语
 - 图的存储
 
 ### 图的遍历
-
-
 
 - [ ] | A1013 | [ Battle Over Cities](https://pintia.cn/problem-sets/994805342720868352/problems/994805500414115840)
 - [ ] | A1021 | [Deepest Root](https://pintia.cn/problem-sets/994805342720868352/problems/994805482919673856)
@@ -465,9 +463,7 @@
 
 
 
-
-
-## 八、动态规划
+## 08.动态规划
 
 - 动态规划的递归和递推写法（准确说是迭代）
 - 最大连续子序列和A1007[ Maximum Subsequence Sum](https://pintia.cn/problem-sets/994805342720868352/problems/994805514284679168)
@@ -499,7 +495,7 @@
 
 
 
-## 九、高级字符串算法
+## 09.高级字符串算法
 
 - 字符串hash   A1040[Longest Symmetric String](https://pintia.cn/problem-sets/994805342720868352/problems/994805446102073344)
 - KMP算法
@@ -508,7 +504,7 @@
 
 
 
-## 十、其他高级数据结构（ACM类）
+## 10.其他高级数据结构（ACM类）
 
 
 - 分块思想/树状数组：

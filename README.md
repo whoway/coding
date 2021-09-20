@@ -1,13 +1,12 @@
 ![logo](https://gitee.com/HACV/command/raw/master/_style/logo.png)
 
-
-# [Coding仓库](https://hacv.gitee.io/coding/#/)
-
+## [Coding仓库](https://hacv.gitee.io/coding/#/)
 
 
 
 
-#### 一、说明
+
+#### 01.说明
 
 - 这是我的博客附属的刷题记载分站 
 - 1、全部使用`C++11`语法（部分由于无法支持C++11语法的，会直接使用C++98语法）
@@ -20,7 +19,7 @@
 
 
 
-#### 二、:memo: 目录（update ing）
+#### 02.:memo: 目录（update ing）
 
 
 - [:pushpin:Coding准备](README.md)
@@ -48,9 +47,9 @@
 
 
 
-#### 二​、:memo: 后记
+#### 03.:memo: 后记
 
-#### 1、License
+#### 3.1.License
 
 本仓库的内容绝打部分是作者写过的代码，有的参考别人想法的会注明来源。  
 在您引用本仓库内容或者对内容进行修改演绎时，请署名并以相同方式共享，谢谢。:smile:  
@@ -58,7 +57,7 @@
 
 
 
-#### 2、Thanks（ing）
+#### 3.2.Thanks（ing）
 
 如果你希望被添加到这个名单中，并且提交过 Issue 或者 PR，请与我联系。    
 
