@@ -4,8 +4,6 @@
 
 
 
-
-
 #### 01.说明
 
 - 这是我的博客附属的刷题记载分站 
@@ -22,6 +20,8 @@
 #### 02.:memo: 目录（update ing）
 
 
+
+
 - [:pushpin:Coding准备](README.md)
 	- [Part01.『代码编辑器』](00.Pre/Part01.Vim和VScode使用手册.md)
 	- [Part02.『刷题目录』](00.Pre/Part02.刷题目录.md)
@@ -33,16 +33,18 @@
 - [:musical_keyboard:第2章.CSP](./02.CCF_CSP/CSP目录结构.md)
 	- [CSP应试策略](02.CCF_CSP/CSP应试策略.md)
 - [:gem:第3章.牛客网](./03.NowCoder/README.md)
-	- [01.腾讯](03.NowCoder/01.腾讯/README.md)
-	- [02.字节](03.NowCoder/02.字节/README.md)
-	- [03.百度](03.NowCoder/03.百度/README.md)
-	- [04.阿里](03.NowCoder/04.阿里/README.md)
+	- [01.腾讯](03.NowCoder/01.腾讯.md)
+	- 02.字节
+	- 03.百度
+	- 04.阿里
 	- [05.华为](03.NowCoder/05.华为.md)
-	- [06.美团](03.NowCoder/06.美团.md)
-	- [07.京东](03.NowCoder/07.京东/README.md)
-	- [08.网易](03.NowCoder/08.网易/README.md)
+	- 06.美团
+	- 07.京东
+	- 08.网易
 	- [09.深信服](03.NowCoder/09.深信服.md)
 - [:rocket:第4章.北大百练](404.md)
+
+
 
 
 
