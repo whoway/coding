@@ -169,7 +169,7 @@
 - [ ] 百练1191:[棋盘分割](http://bailian.openjudge.cn/practice/1191)
 - [ ] 百练2754:[八皇后](http://bailian.openjudge.cn/practice/2754)
 - [ ] 百练2775:[文件结构“图”](http://bailian.openjudge.cn/practice/2775)
-- [ ] 百练2787:[算24](http://bailian.openjudge.cn/practice/2787)
+- [x] 百练2787:[算24](http://bailian.openjudge.cn/practice/2787)
 - [x] 百练2753:[菲波那契数列](http://bailian.openjudge.cn/practice/2753)
 - [x] 百练3248:[最大公约数](http://bailian.openjudge.cn/practice/3248)
 - [ ] 百练2749:[分解因数](http://bailian.openjudge.cn/practice/2749)
